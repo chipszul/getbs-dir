@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26 09:59:51",
+  "updated": "2026-05-26 10:00:02",
   "total": 23,
   "staff": [
     {
@@ -15,8 +15,8 @@
       "image": "dr-huzaimi.webp",
       "profile": "huzaimi",
       "linkedin": "",
-      "citation": 48,
-      "publications": 13,
+      "citation": 50,
+      "publications": 6,
       "h-index": 10
     },
     {
@@ -32,9 +32,9 @@
       "image": "dr-charis.webp",
       "profile": "charis",
       "linkedin": "",
-      "citation": 28,
-      "publications": 15,
-      "h-index": 14
+      "citation": 25,
+      "publications": 13,
+      "h-index": 39
     },
     {
       "id": "03",
@@ -49,9 +49,9 @@
       "image": "dr-jackkie.webp",
       "profile": "jackkie",
       "linkedin": "",
-      "citation": 13,
-      "publications": 34,
-      "h-index": 34
+      "citation": 40,
+      "publications": 8,
+      "h-index": 9
     },
     {
       "id": "04",
@@ -66,9 +66,9 @@
       "image": "dr-imaduddin.webp",
       "profile": "imaduddin",
       "linkedin": "",
-      "citation": 35,
-      "publications": 21,
-      "h-index": 17
+      "citation": 26,
+      "publications": 40,
+      "h-index": 47
     },
     {
       "id": "05",
@@ -83,9 +83,9 @@
       "image": "dr-irene.webp",
       "profile": "irene",
       "linkedin": "",
-      "citation": 34,
-      "publications": 11,
-      "h-index": 16
+      "citation": 47,
+      "publications": 46,
+      "h-index": 8
     },
     {
       "id": "06",
@@ -100,9 +100,9 @@
       "image": "dr-chia.webp",
       "profile": "chia",
       "linkedin": "",
-      "citation": 48,
-      "publications": 52,
-      "h-index": 45
+      "citation": 26,
+      "publications": 32,
+      "h-index": 28
     },
     {
       "id": "07",
@@ -117,9 +117,9 @@
       "image": "dr-lee-khai.webp",
       "profile": "khai",
       "linkedin": "",
-      "citation": 42,
-      "publications": 25,
-      "h-index": 27
+      "citation": 26,
+      "publications": 39,
+      "h-index": 10
     },
     {
       "id": "08",
@@ -134,9 +134,9 @@
       "image": "dr-waffy.webp",
       "profile": "waffy",
       "linkedin": "",
-      "citation": 29,
-      "publications": 46,
-      "h-index": 10
+      "citation": 50,
+      "publications": 42,
+      "h-index": 48
     },
     {
       "id": "09",
@@ -151,9 +151,9 @@
       "image": "dr-ghazali.webp",
       "profile": "ghazali",
       "linkedin": "",
-      "citation": 9,
-      "publications": 32,
-      "h-index": 11
+      "citation": 20,
+      "publications": 7,
+      "h-index": 39
     },
     {
       "id": "10",
@@ -168,9 +168,9 @@
       "image": "dr-hanafiah.webp",
       "profile": "hanafiah",
       "linkedin": "",
-      "citation": 45,
-      "publications": 14,
-      "h-index": 22
+      "citation": 48,
+      "publications": 44,
+      "h-index": 49
     },
     {
       "id": "11",
@@ -185,9 +185,9 @@
       "image": "dr-ashraf.webp",
       "profile": "ashraf",
       "linkedin": "",
-      "citation": 54,
-      "publications": 43,
-      "h-index": 23
+      "citation": 30,
+      "publications": 55,
+      "h-index": 31
     },
     {
       "id": "12",
@@ -202,8 +202,8 @@
       "image": "dr-fakhrul.webp",
       "profile": "fakhrul",
       "linkedin": "",
-      "citation": 35,
-      "publications": 35,
+      "citation": 21,
+      "publications": 17,
       "h-index": 44
     },
     {
@@ -219,15 +219,15 @@
       "image": "dr-noraina.webp",
       "profile": "noraina",
       "linkedin": "",
-      "citation": 19,
-      "publications": 36,
-      "h-index": 35
+      "citation": 18,
+      "publications": 17,
+      "h-index": 17
     },
     {
       "id": "14",
       "name": "Dr. Noraine Bahari",
       "position": "Open and Distance Learning (ODL) Coordinator (Master of Business Administration)",
-      "featured": "",
+      "featured": "yes",
       "sort_order": 14,
       "expertise": "Human Resource Development; Organisational Learning; Training Management",
       "email": "sinebahari@umpsa.edu.my",
@@ -236,9 +236,9 @@
       "image": "dr-noraine.webp",
       "profile": "noraine",
       "linkedin": "",
-      "citation": 17,
-      "publications": 52,
-      "h-index": 5
+      "citation": 27,
+      "publications": 22,
+      "h-index": 25
     },
     {
       "id": "15",
@@ -253,9 +253,9 @@
       "image": "dr-noridayu.webp",
       "profile": "noridayu",
       "linkedin": "",
-      "citation": 20,
-      "publications": 39,
-      "h-index": 43
+      "citation": 26,
+      "publications": 14,
+      "h-index": 39
     },
     {
       "id": "16",
@@ -270,9 +270,9 @@
       "image": "dr-norwazli.webp",
       "profile": "norwazli",
       "linkedin": "",
-      "citation": 51,
-      "publications": 28,
-      "h-index": 33
+      "citation": 24,
+      "publications": 14,
+      "h-index": 15
     },
     {
       "id": "17",
@@ -287,9 +287,9 @@
       "image": "dr-ashykin.webp",
       "profile": "ashykin",
       "linkedin": "",
-      "citation": 8,
-      "publications": 10,
-      "h-index": 41
+      "citation": 29,
+      "publications": 7,
+      "h-index": 33
     },
     {
       "id": "18",
@@ -304,9 +304,9 @@
       "image": "dr-fadzline.webp",
       "profile": "fadzline",
       "linkedin": "",
-      "citation": 14,
-      "publications": 28,
-      "h-index": 39
+      "citation": 21,
+      "publications": 11,
+      "h-index": 9
     },
     {
       "id": "19",
@@ -321,9 +321,9 @@
       "image": "dr-reeduan.webp",
       "profile": "reeduan",
       "linkedin": "",
-      "citation": 10,
-      "publications": 55,
-      "h-index": 55
+      "citation": 20,
+      "publications": 28,
+      "h-index": 19
     },
     {
       "id": "20",
@@ -338,9 +338,9 @@
       "image": "dr-salina.webp",
       "profile": "salina",
       "linkedin": "",
-      "citation": 49,
-      "publications": 29,
-      "h-index": 41
+      "citation": 51,
+      "publications": 9,
+      "h-index": 51
     },
     {
       "id": "21",
@@ -355,9 +355,9 @@
       "image": "dr-suhaidah.webp",
       "profile": "suhaidah",
       "linkedin": "",
-      "citation": 23,
-      "publications": 49,
-      "h-index": 41
+      "citation": 18,
+      "publications": 31,
+      "h-index": 52
     },
     {
       "id": "22",
@@ -372,9 +372,9 @@
       "image": "dr-yudi.webp",
       "profile": "yudi",
       "linkedin": "",
-      "citation": 16,
-      "publications": 29,
-      "h-index": 11
+      "citation": 32,
+      "publications": 49,
+      "h-index": 46
     },
     {
       "id": "23",
@@ -389,9 +389,9 @@
       "image": "dr.-zarith.webp",
       "profile": "zarith-sufia",
       "linkedin": "",
-      "citation": 48,
-      "publications": 48,
-      "h-index": 19
+      "citation": 6,
+      "publications": 40,
+      "h-index": 39
     }
   ]
 }
