@@ -1,23 +1,40 @@
 {
-  "updated": "2026-05-26 10:02:15",
+  "updated": "2026-05-26 10:09:24",
   "total": 23,
   "staff": [
     {
-      "id": "01",
-      "name": "Dr. Ahmad Huzaimi Abd Aziz",
-      "position": "Academic Coordinator (MPM)",
+      "id": "10",
+      "name": "Dr. Mohd Hanafiah Ahmad",
+      "position": "Dean",
       "featured": "yes",
-      "sort_order": 3,
-      "expertise": "Project Management; Technology Management; Strategic Management",
-      "email": "ahuzaimi@umpsa.edu.my",
-      "quote": "If you want it and dream it; you can achieve it.",
+      "sort_order": 1,
+      "expertise": "Business Management; Strategic Planning; Entrepreneurship",
+      "email": "hanafiah@umpsa.edu.my",
+      "quote": "?",
       "status": "active",
-      "image": "dr-huzaimi.webp",
-      "profile": "huzaimi",
+      "image": "dr-hanafiah.webp",
+      "profile": "hanafiah",
       "linkedin": "",
-      "citation": 31,
-      "publications": 43,
-      "h-index": 23
+      "citation": 48,
+      "publications": 6,
+      "h-index": 33
+    },
+    {
+      "id": "13",
+      "name": "Dr. Noraina Mazuin Sapuan",
+      "position": "Head of Department",
+      "featured": "yes",
+      "sort_order": 1,
+      "expertise": "Marketing; Consumer Behaviour; Branding",
+      "email": "noraina@umpsa.edu.my",
+      "quote": "Root your actions in values, focus your vision on growth, and maintain the flexibility to navigate challenges",
+      "status": "active",
+      "image": "dr-noraina.webp",
+      "profile": "noraina",
+      "linkedin": "",
+      "citation": 21,
+      "publications": 16,
+      "h-index": 35
     },
     {
       "id": "02",
@@ -35,6 +52,23 @@
       "citation": 51,
       "publications": 51,
       "h-index": 49
+    },
+    {
+      "id": "01",
+      "name": "Dr. Ahmad Huzaimi Abd Aziz",
+      "position": "Academic Coordinator (MPM)",
+      "featured": "yes",
+      "sort_order": 3,
+      "expertise": "Project Management; Technology Management; Strategic Management",
+      "email": "ahuzaimi@umpsa.edu.my",
+      "quote": "If you want it and dream it; you can achieve it.",
+      "status": "active",
+      "image": "dr-huzaimi.webp",
+      "profile": "huzaimi",
+      "linkedin": "",
+      "citation": 31,
+      "publications": 43,
+      "h-index": 23
     },
     {
       "id": "03",
@@ -69,6 +103,23 @@
       "citation": 9,
       "publications": 24,
       "h-index": 8
+    },
+    {
+      "id": "18",
+      "name": "Associate Professor Dr. Puteri Fadzline Muhamad Tamyez",
+      "position": "Get-BS Coordinator",
+      "featured": "yes",
+      "sort_order": 4,
+      "expertise": "Technology Innovation; Entrepreneurship; Strategic Technology Management",
+      "email": "fadzline@umpsa.edu.my",
+      "quote": "Courage does not always roar. It is the quiet voice at the end of the day saying, ?I will try again tomorrow?",
+      "status": "active",
+      "image": "dr-fadzline.webp",
+      "profile": "fadzline",
+      "linkedin": "",
+      "citation": 15,
+      "publications": 23,
+      "h-index": 35
     },
     {
       "id": "05",
@@ -156,23 +207,6 @@
       "h-index": 36
     },
     {
-      "id": "10",
-      "name": "Dr. Mohd Hanafiah Ahmad",
-      "position": "Dean",
-      "featured": "yes",
-      "sort_order": 1,
-      "expertise": "Business Management; Strategic Planning; Entrepreneurship",
-      "email": "hanafiah@umpsa.edu.my",
-      "quote": "?",
-      "status": "active",
-      "image": "dr-hanafiah.webp",
-      "profile": "hanafiah",
-      "linkedin": "",
-      "citation": 48,
-      "publications": 6,
-      "h-index": 33
-    },
-    {
       "id": "11",
       "name": "Assoc. Prof. Ts. Dr. Muhammad Ashraf Fauzi",
       "position": "",
@@ -205,23 +239,6 @@
       "citation": 54,
       "publications": 25,
       "h-index": 38
-    },
-    {
-      "id": "13",
-      "name": "Dr. Noraina Mazuin Sapuan",
-      "position": "Head of Department",
-      "featured": "yes",
-      "sort_order": 1,
-      "expertise": "Marketing; Consumer Behaviour; Branding",
-      "email": "noraina@umpsa.edu.my",
-      "quote": "Root your actions in values, focus your vision on growth, and maintain the flexibility to navigate challenges",
-      "status": "active",
-      "image": "dr-noraina.webp",
-      "profile": "noraina",
-      "linkedin": "",
-      "citation": 21,
-      "publications": 16,
-      "h-index": 35
     },
     {
       "id": "14",
@@ -290,23 +307,6 @@
       "citation": 14,
       "publications": 31,
       "h-index": 6
-    },
-    {
-      "id": "18",
-      "name": "Associate Professor Dr. Puteri Fadzline Muhamad Tamyez",
-      "position": "Get-BS Coordinator",
-      "featured": "yes",
-      "sort_order": 4,
-      "expertise": "Technology Innovation; Entrepreneurship; Strategic Technology Management",
-      "email": "fadzline@umpsa.edu.my",
-      "quote": "Courage does not always roar. It is the quiet voice at the end of the day saying, ?I will try again tomorrow?",
-      "status": "active",
-      "image": "dr-fadzline.webp",
-      "profile": "fadzline",
-      "linkedin": "",
-      "citation": 15,
-      "publications": 23,
-      "h-index": 35
     },
     {
       "id": "19",
