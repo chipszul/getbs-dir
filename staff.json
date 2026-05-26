@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-26 10:09:24",
-  "total": 23,
+  "updated": "2026-05-26 12:16:28",
+  "total": 24,
   "staff": [
+    {
+      "id": "",
+      "name": "Khairunnisa Binti Abdul Aziz",
+      "position": "Academic Coordinator (Master of Business Administration)",
+      "featured": "yes",
+      "sort_order": "",
+      "expertise": "",
+      "email": "khairunnisa@umpsa.edu.my",
+      "quote": "Excellence is achieved through reflection, action, and improvement ",
+      "status": "active",
+      "image": "dr.khairunnisa",
+      "profile": "khairunnisa",
+      "linkedin": "",
+      "citation": 12,
+      "publications": 7,
+      "h-index": 42
+    },
     {
       "id": "10",
       "name": "Dr. Mohd Hanafiah Ahmad",
@@ -15,9 +32,9 @@
       "image": "dr-hanafiah.webp",
       "profile": "hanafiah",
       "linkedin": "",
-      "citation": 48,
-      "publications": 6,
-      "h-index": 33
+      "citation": 30,
+      "publications": 28,
+      "h-index": 43
     },
     {
       "id": "13",
@@ -32,9 +49,9 @@
       "image": "dr-noraina.webp",
       "profile": "noraina",
       "linkedin": "",
-      "citation": 21,
-      "publications": 16,
-      "h-index": 35
+      "citation": 33,
+      "publications": 19,
+      "h-index": 43
     },
     {
       "id": "02",
@@ -49,9 +66,9 @@
       "image": "dr-charis.webp",
       "profile": "charis",
       "linkedin": "",
-      "citation": 51,
-      "publications": 51,
-      "h-index": 49
+      "citation": 42,
+      "publications": 34,
+      "h-index": 26
     },
     {
       "id": "01",
@@ -66,9 +83,9 @@
       "image": "dr-huzaimi.webp",
       "profile": "huzaimi",
       "linkedin": "",
-      "citation": 31,
-      "publications": 43,
-      "h-index": 23
+      "citation": 45,
+      "publications": 51,
+      "h-index": 34
     },
     {
       "id": "03",
@@ -83,9 +100,9 @@
       "image": "dr-jackkie.webp",
       "profile": "jackkie",
       "linkedin": "",
-      "citation": 50,
-      "publications": 46,
-      "h-index": 45
+      "citation": 32,
+      "publications": 52,
+      "h-index": 12
     },
     {
       "id": "04",
@@ -100,9 +117,9 @@
       "image": "dr-imaduddin.webp",
       "profile": "imaduddin",
       "linkedin": "",
-      "citation": 9,
-      "publications": 24,
-      "h-index": 8
+      "citation": 16,
+      "publications": 54,
+      "h-index": 16
     },
     {
       "id": "18",
@@ -117,9 +134,9 @@
       "image": "dr-fadzline.webp",
       "profile": "fadzline",
       "linkedin": "",
-      "citation": 15,
-      "publications": 23,
-      "h-index": 35
+      "citation": 49,
+      "publications": 29,
+      "h-index": 18
     },
     {
       "id": "05",
@@ -134,9 +151,9 @@
       "image": "dr-irene.webp",
       "profile": "irene",
       "linkedin": "",
-      "citation": 46,
-      "publications": 35,
-      "h-index": 47
+      "citation": 18,
+      "publications": 10,
+      "h-index": 15
     },
     {
       "id": "06",
@@ -151,9 +168,9 @@
       "image": "dr-chia.webp",
       "profile": "chia",
       "linkedin": "",
-      "citation": 29,
-      "publications": 21,
-      "h-index": 44
+      "citation": 36,
+      "publications": 40,
+      "h-index": 29
     },
     {
       "id": "07",
@@ -168,9 +185,9 @@
       "image": "dr-lee-khai.webp",
       "profile": "khai",
       "linkedin": "",
-      "citation": 34,
-      "publications": 16,
-      "h-index": 12
+      "citation": 24,
+      "publications": 47,
+      "h-index": 49
     },
     {
       "id": "08",
@@ -185,9 +202,9 @@
       "image": "dr-waffy.webp",
       "profile": "waffy",
       "linkedin": "",
-      "citation": 45,
-      "publications": 38,
-      "h-index": 12
+      "citation": 31,
+      "publications": 10,
+      "h-index": 6
     },
     {
       "id": "09",
@@ -202,9 +219,9 @@
       "image": "dr-ghazali.webp",
       "profile": "ghazali",
       "linkedin": "",
-      "citation": 31,
-      "publications": 10,
-      "h-index": 36
+      "citation": 36,
+      "publications": 22,
+      "h-index": 14
     },
     {
       "id": "11",
@@ -219,9 +236,9 @@
       "image": "dr-ashraf.webp",
       "profile": "ashraf",
       "linkedin": "",
-      "citation": 39,
-      "publications": 33,
-      "h-index": 49
+      "citation": 6,
+      "publications": 35,
+      "h-index": 44
     },
     {
       "id": "12",
@@ -236,9 +253,9 @@
       "image": "dr-fakhrul.webp",
       "profile": "fakhrul",
       "linkedin": "",
-      "citation": 54,
-      "publications": 25,
-      "h-index": 38
+      "citation": 43,
+      "publications": 26,
+      "h-index": 40
     },
     {
       "id": "14",
@@ -253,9 +270,9 @@
       "image": "dr-noraine.webp",
       "profile": "noraine",
       "linkedin": "",
-      "citation": 52,
-      "publications": 10,
-      "h-index": 25
+      "citation": 22,
+      "publications": 33,
+      "h-index": 8
     },
     {
       "id": "15",
@@ -270,9 +287,9 @@
       "image": "dr-noridayu.webp",
       "profile": "noridayu",
       "linkedin": "",
-      "citation": 45,
-      "publications": 50,
-      "h-index": 53
+      "citation": 50,
+      "publications": 45,
+      "h-index": 40
     },
     {
       "id": "16",
@@ -287,9 +304,9 @@
       "image": "dr-norwazli.webp",
       "profile": "norwazli",
       "linkedin": "",
-      "citation": 42,
-      "publications": 24,
-      "h-index": 48
+      "citation": 41,
+      "publications": 8,
+      "h-index": 42
     },
     {
       "id": "17",
@@ -304,9 +321,9 @@
       "image": "dr-ashykin.webp",
       "profile": "ashykin",
       "linkedin": "",
-      "citation": 14,
-      "publications": 31,
-      "h-index": 6
+      "citation": 44,
+      "publications": 13,
+      "h-index": 9
     },
     {
       "id": "19",
@@ -321,9 +338,9 @@
       "image": "dr-reeduan.webp",
       "profile": "reeduan",
       "linkedin": "",
-      "citation": 38,
-      "publications": 52,
-      "h-index": 51
+      "citation": 14,
+      "publications": 40,
+      "h-index": 33
     },
     {
       "id": "20",
@@ -338,9 +355,9 @@
       "image": "dr-salina.webp",
       "profile": "salina",
       "linkedin": "",
-      "citation": 32,
-      "publications": 43,
-      "h-index": 28
+      "citation": 46,
+      "publications": 27,
+      "h-index": 42
     },
     {
       "id": "21",
@@ -355,9 +372,9 @@
       "image": "dr-suhaidah.webp",
       "profile": "suhaidah",
       "linkedin": "",
-      "citation": 48,
-      "publications": 53,
-      "h-index": 38
+      "citation": 34,
+      "publications": 38,
+      "h-index": 46
     },
     {
       "id": "22",
@@ -372,9 +389,9 @@
       "image": "dr-yudi.webp",
       "profile": "yudi",
       "linkedin": "",
-      "citation": 38,
-      "publications": 40,
-      "h-index": 18
+      "citation": 42,
+      "publications": 39,
+      "h-index": 33
     },
     {
       "id": "23",
@@ -389,9 +406,9 @@
       "image": "dr.-zarith.webp",
       "profile": "zarith-sufia",
       "linkedin": "",
-      "citation": 54,
-      "publications": 36,
-      "h-index": 38
+      "citation": 45,
+      "publications": 37,
+      "h-index": 39
     }
   ]
 }
