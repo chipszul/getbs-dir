@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26 09:46:52",
+  "updated": "2026-05-26 09:47:35",
   "total": 23,
   "staff": [
     {
@@ -10,14 +10,14 @@
       "sort_order": 3,
       "expertise": "Project Management; Technology Management; Strategic Management",
       "email": "ahuzaimi@umpsa.edu.my",
-      "quote": "If you want to end conflict you can achieve it.",
+      "quote": "",
       "status": "active",
       "image": "dr-huzaimi.webp",
       "profile": "huzaimi",
       "linkedin": "",
-      "citation": 17,
-      "publications": 47,
-      "h-index": 5
+      "citation": 16,
+      "publications": 48,
+      "h-index": 44
     },
     {
       "id": "02",
@@ -27,14 +27,14 @@
       "sort_order": 2,
       "expertise": "Organisational Behaviour; Human Resource Management; Leadership",
       "email": "kolik@umpsa.edu.my",
-      "quote": "Empowering minds through knowledge, inspiring growth through teaching.",
+      "quote": "",
       "status": "active",
       "image": "dr-charis.webp",
       "profile": "charis",
       "linkedin": "",
-      "citation": 16,
-      "publications": 41,
-      "h-index": 52
+      "citation": 53,
+      "publications": 18,
+      "h-index": 21
     },
     {
       "id": "03",
@@ -44,14 +44,14 @@
       "sort_order": 3,
       "expertise": "Business Analytics; Data Analytics; Decision Science",
       "email": "charis@umpsa.edu.my",
-      "quote": "Life is not a hurdle race against your friends, but a lifelong marathon against yourself.",
+      "quote": "",
       "status": "active",
       "image": "dr-jackkie.webp",
       "profile": "jackkie",
       "linkedin": "",
-      "citation": 21,
-      "publications": 5,
-      "h-index": 10
+      "citation": 41,
+      "publications": 43,
+      "h-index": 11
     },
     {
       "id": "04",
@@ -61,14 +61,14 @@
       "sort_order": 4,
       "expertise": "Safety Management; Occupational Health; Risk Management",
       "email": "imaduddin@umpsa.edu.my",
-      "quote": "Ilmu tanpa amal adalah gila, amal tanpa ilmu adalah sia-sia.",
+      "quote": "",
       "status": "active",
       "image": "dr-imaduddin.webp",
       "profile": "imaduddin",
       "linkedin": "",
-      "citation": 13,
-      "publications": 6,
-      "h-index": 30
+      "citation": 31,
+      "publications": 43,
+      "h-index": 55
     },
     {
       "id": "05",
@@ -78,14 +78,14 @@
       "sort_order": 5,
       "expertise": "Entrepreneurship; SME Development; Innovation Management",
       "email": "irene@umpsa.edu.my",
-      "quote": "Be Confident.",
+      "quote": "",
       "status": "active",
       "image": "dr-irene.webp",
       "profile": "irene",
       "linkedin": "",
-      "citation": 21,
-      "publications": 52,
-      "h-index": 45
+      "citation": 54,
+      "publications": 32,
+      "h-index": 53
     },
     {
       "id": "06",
@@ -95,14 +95,14 @@
       "sort_order": 6,
       "expertise": "Industrial Management; Quality Management; Operations Management",
       "email": "chia@umpsa.edu.my",
-      "quote": "Driven by Wisdom, Rising to Excellence.",
+      "quote": "",
       "status": "active",
       "image": "dr-chia.webp",
       "profile": "chia",
       "linkedin": "",
-      "citation": 44,
-      "publications": 41,
-      "h-index": 54
+      "citation": 10,
+      "publications": 13,
+      "h-index": 8
     },
     {
       "id": "07",
@@ -112,14 +112,14 @@
       "sort_order": 7,
       "expertise": "Engineering Management; Supply Chain; Logistics Management",
       "email": "leekhailoon@umpsa.edu.my",
-      "quote": "If it doesn't challenge you, it won't change you. Great things never come from comfort zones.",
+      "quote": "",
       "status": "active",
       "image": "dr-lee-khai.webp",
       "profile": "khai",
       "linkedin": "",
-      "citation": 19,
-      "publications": 37,
-      "h-index": 46
+      "citation": 52,
+      "publications": 34,
+      "h-index": 8
     },
     {
       "id": "08",
@@ -129,14 +129,14 @@
       "sort_order": 8,
       "expertise": "Project Management; Construction Management; Strategic Planning",
       "email": "mohammadwaffy@umpsa.edu.my",
-      "quote": "Do the best you can until you know better. Then when you know better, do better.",
+      "quote": "",
       "status": "active",
       "image": "dr-waffy.webp",
       "profile": "waffy",
       "linkedin": "",
-      "citation": 7,
-      "publications": 26,
-      "h-index": 35
+      "citation": 50,
+      "publications": 32,
+      "h-index": 26
     },
     {
       "id": "09",
@@ -146,14 +146,14 @@
       "sort_order": 9,
       "expertise": "Technology Management; Industrial Operations; Manufacturing",
       "email": "ghazali@umpsa.edu.my",
-      "quote": "Doa and only doa best you can in life.",
+      "quote": "",
       "status": "active",
       "image": "dr-ghazali.webp",
       "profile": "ghazali",
       "linkedin": "",
-      "citation": 44,
-      "publications": 33,
-      "h-index": 35
+      "citation": 49,
+      "publications": 37,
+      "h-index": 15
     },
     {
       "id": "10",
@@ -168,9 +168,9 @@
       "image": "dr-hanafiah.webp",
       "profile": "hanafiah",
       "linkedin": "",
-      "citation": 32,
-      "publications": 49,
-      "h-index": 16
+      "citation": 10,
+      "publications": 35,
+      "h-index": 35
     },
     {
       "id": "11",
@@ -180,14 +180,14 @@
       "sort_order": 11,
       "expertise": "Financial Technology; Information Systems; Digital Transformation",
       "email": "ashrafauzi@umpsa.edu.my",
-      "quote": "Sigap Ilmu, Aji Wibawa",
+      "quote": "",
       "status": "active",
       "image": "dr-ashraf.webp",
       "profile": "ashraf",
       "linkedin": "",
-      "citation": 32,
-      "publications": 31,
-      "h-index": 49
+      "citation": 13,
+      "publications": 51,
+      "h-index": 23
     },
     {
       "id": "12",
@@ -197,14 +197,14 @@
       "sort_order": 12,
       "expertise": "Business Engineering; Process Improvement; Innovation",
       "email": "emfakhrul@umpsa.edu.my",
-      "quote": "From leading operations on the ground to shaping minds in lecture rooms, I bring 18+ years of real-world experience into my classroom in sustainability, digital transformation and strategic innovation.",
+      "quote": "",
       "status": "active",
       "image": "dr-fakhrul.webp",
       "profile": "fakhrul",
       "linkedin": "",
-      "citation": 51,
-      "publications": 15,
-      "h-index": 14
+      "citation": 40,
+      "publications": 29,
+      "h-index": 35
     },
     {
       "id": "13",
@@ -214,14 +214,14 @@
       "sort_order": 2,
       "expertise": "Marketing; Consumer Behaviour; Branding",
       "email": "noraina@umpsa.edu.my",
-      "quote": "Root your actions in values, focus your vision on growth, and maintain the flexibility to navigate challenges.",
+      "quote": "",
       "status": "active",
       "image": "dr-noraina.webp",
       "profile": "noraina",
       "linkedin": "",
-      "citation": 14,
-      "publications": 23,
-      "h-index": 15
+      "citation": 6,
+      "publications": 14,
+      "h-index": 19
     },
     {
       "id": "14",
@@ -231,14 +231,14 @@
       "sort_order": 14,
       "expertise": "Human Resource Development; Organisational Learning; Training Management",
       "email": "sinebahari@umpsa.edu.my",
-      "quote": "Work for your need as if you will live forever, and work for your Hereafter as if you will die tomorrow.",
+      "quote": "",
       "status": "active",
       "image": "dr-noraine.webp",
       "profile": "noraine",
       "linkedin": "",
-      "citation": 51,
-      "publications": 54,
-      "h-index": 27
+      "citation": 23,
+      "publications": 26,
+      "h-index": 32
     },
     {
       "id": "15",
@@ -253,9 +253,9 @@
       "image": "dr-noridayu.webp",
       "profile": "noridayu",
       "linkedin": "",
-      "citation": 50,
-      "publications": 50,
-      "h-index": 31
+      "citation": 15,
+      "publications": 52,
+      "h-index": 45
     },
     {
       "id": "16",
@@ -265,14 +265,14 @@
       "sort_order": 16,
       "expertise": "Business Analytics; Statistics; Quantitative Analysis",
       "email": "norwazli@umpsa.edu.my",
-      "quote": "Turn challenges into chapters of success.",
+      "quote": "",
       "status": "active",
       "image": "dr-norwazli.webp",
       "profile": "norwazli",
       "linkedin": "",
-      "citation": 24,
-      "publications": 21,
-      "h-index": 31
+      "citation": 45,
+      "publications": 51,
+      "h-index": 12
     },
     {
       "id": "17",
@@ -282,14 +282,14 @@
       "sort_order": 17,
       "expertise": "Operations Management; Industrial Engineering; Lean Management",
       "email": "ashykin@umpsa.edu.my",
-      "quote": "Hard work builds strength, learning unlocks greatness.",
+      "quote": "",
       "status": "active",
       "image": "dr-ashykin.webp",
       "profile": "ashykin",
       "linkedin": "",
-      "citation": 32,
-      "publications": 34,
-      "h-index": 36
+      "citation": 9,
+      "publications": 5,
+      "h-index": 27
     },
     {
       "id": "18",
@@ -299,14 +299,14 @@
       "sort_order": 4,
       "expertise": "Technology Innovation; Entrepreneurship; Strategic Technology Management",
       "email": "fadzline@umpsa.edu.my",
-      "quote": "Courage does not always roar. It is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "quote": "",
       "status": "active",
       "image": "dr-fadzline.webp",
       "profile": "fadzline",
       "linkedin": "",
-      "citation": 53,
-      "publications": 7,
-      "h-index": 52
+      "citation": 17,
+      "publications": 22,
+      "h-index": 8
     },
     {
       "id": "19",
@@ -316,14 +316,14 @@
       "sort_order": 19,
       "expertise": "Business Intelligence; Information Management; Data Systems",
       "email": "reeduan@umpsa.edu.my",
-      "quote": "Those in pursuit of healing people deserve their potential.",
+      "quote": "",
       "status": "active",
       "image": "dr-reeduan.webp",
       "profile": "reeduan",
       "linkedin": "",
-      "citation": 16,
-      "publications": 38,
-      "h-index": 19
+      "citation": 15,
+      "publications": 47,
+      "h-index": 49
     },
     {
       "id": "20",
@@ -333,14 +333,14 @@
       "sort_order": 20,
       "expertise": "Knowledge Management; Organisational Strategy; Innovation Management",
       "email": "salinadaud@umpsa.edu.my",
-      "quote": "Calm is purpose, cold is action.",
+      "quote": "",
       "status": "active",
       "image": "dr-salina.webp",
       "profile": "salina",
       "linkedin": "",
       "citation": 55,
-      "publications": 9,
-      "h-index": 52
+      "publications": 47,
+      "h-index": 45
     },
     {
       "id": "21",
@@ -350,14 +350,14 @@
       "sort_order": 21,
       "expertise": "Industrial Technology; Supply Chain; Manufacturing Management",
       "email": "suhaidah@umpsa.edu.my",
-      "quote": "Every accomplishment starts with the decision to try.",
+      "quote": "",
       "status": "active",
       "image": "dr-suhaidah.webp",
       "profile": "suhaidah",
       "linkedin": "",
-      "citation": 42,
-      "publications": 33,
-      "h-index": 54
+      "citation": 10,
+      "publications": 8,
+      "h-index": 39
     },
     {
       "id": "22",
@@ -367,14 +367,14 @@
       "sort_order": 22,
       "expertise": "Supply Chain Management; Sustainability; Operations Strategy",
       "email": "yudi@umpsa.edu.my",
-      "quote": "Nature responsible knowledge with the light of true wisdom.",
+      "quote": "",
       "status": "active",
       "image": "dr-yudi.webp",
       "profile": "yudi",
       "linkedin": "",
-      "citation": 30,
-      "publications": 36,
-      "h-index": 6
+      "citation": 15,
+      "publications": 49,
+      "h-index": 55
     },
     {
       "id": "23",
@@ -384,14 +384,14 @@
       "sort_order": 23,
       "expertise": "Business Analytics; Data Science; Information Systems",
       "email": "zarithsufia@umpsa.edu.my",
-      "quote": "Never stop learning, because life never stops teaching.",
+      "quote": "",
       "status": "active",
       "image": "dr.-zarith.webp",
       "profile": "zarith-sufia",
       "linkedin": "",
-      "citation": 20,
-      "publications": 10,
-      "h-index": 37
+      "citation": 9,
+      "publications": 27,
+      "h-index": 21
     }
   ]
 }
