@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26 09:46:26",
+  "updated": "2026-05-26 09:46:30",
   "total": 23,
   "staff": [
     {
@@ -10,14 +10,14 @@
       "sort_order": 3,
       "expertise": "Project Management; Technology Management; Strategic Management",
       "email": "ahuzaimi@umpsa.edu.my",
-      "quote": "",
+      "quote": "?If you want it and dream it; you can achieve it.?",
       "status": "active",
       "image": "dr-huzaimi.webp",
       "profile": "huzaimi",
       "linkedin": "",
-      "citation": 36,
-      "publications": 46,
-      "h-index": 13
+      "citation": 38,
+      "publications": 36,
+      "h-index": 51
     },
     {
       "id": "02",
@@ -27,14 +27,14 @@
       "sort_order": 2,
       "expertise": "Organisational Behaviour; Human Resource Management; Leadership",
       "email": "kolik@umpsa.edu.my",
-      "quote": "",
+      "quote": "?Empowering minds through knowledge, inspiring growth through teaching\"",
       "status": "active",
       "image": "dr-charis.webp",
       "profile": "charis",
       "linkedin": "",
-      "citation": 22,
-      "publications": 34,
-      "h-index": 9
+      "citation": 8,
+      "publications": 29,
+      "h-index": 43
     },
     {
       "id": "03",
@@ -44,14 +44,14 @@
       "sort_order": 3,
       "expertise": "Business Analytics; Data Analytics; Decision Science",
       "email": "charis@umpsa.edu.my",
-      "quote": "",
+      "quote": "?Life isn?t a hundred-meter race against your friends, but a lifelong marathon against yourself.?",
       "status": "active",
       "image": "dr-jackkie.webp",
       "profile": "jackkie",
       "linkedin": "",
-      "citation": 38,
-      "publications": 28,
-      "h-index": 49
+      "citation": 8,
+      "publications": 22,
+      "h-index": 26
     },
     {
       "id": "04",
@@ -61,14 +61,14 @@
       "sort_order": 4,
       "expertise": "Safety Management; Occupational Health; Risk Management",
       "email": "imaduddin@umpsa.edu.my",
-      "quote": "",
+      "quote": "Ilmu tanpa amal adalah gila, amal tanpa ilmu adalah sia-sia? ? Imam Al-Ghazali (Ihya? Ulum al-Din)\n?Be Optimistic.?\n?Driven by Wisdom, Rising in Excellence?\n?If it doesn?t challenge you, it won?t change you. Great things never come from comfort zones?\n?Do the best you can until you know better. Then when you know better, do better.? ? Maya Angelou\n?Doing and giving the best you can in life?\n?\n?Agi Idup, Agi Ngelaban?\n?From leading operations on the ground to shaping minds in lecture rooms, I bring 18+ years of real-world experience into any discussion on sustainability, digital transformation and strategic innovation?\n?Root your actions in values, focus your vision on growth, and maintain the flexibility to navigate challenges?\n?Work for your world as if you will live forever, and work for your Hereafter as if you will die tomorrow.? ? Prophet Muhammad ?\n?\n?I turn challenges into chapters of success.?\n?Hard work builds strength, learning shapes success?\nCourage does not always roar. It is the quiet voice at the end of the day saying, ?I will try again tomorrow?\"",
       "status": "active",
       "image": "dr-imaduddin.webp",
       "profile": "imaduddin",
       "linkedin": "",
-      "citation": 41,
-      "publications": 41,
-      "h-index": 28
+      "citation": 37,
+      "publications": 39,
+      "h-index": 52
     },
     {
       "id": "05",
@@ -78,14 +78,14 @@
       "sort_order": 5,
       "expertise": "Entrepreneurship; SME Development; Innovation Management",
       "email": "irene@umpsa.edu.my",
-      "quote": "",
+      "quote": "I have a passion for helping people achieve their potential",
       "status": "active",
       "image": "dr-irene.webp",
       "profile": "irene",
       "linkedin": "",
-      "citation": 55,
-      "publications": 42,
-      "h-index": 13
+      "citation": 28,
+      "publications": 48,
+      "h-index": 26
     },
     {
       "id": "06",
@@ -95,14 +95,14 @@
       "sort_order": 6,
       "expertise": "Industrial Management; Quality Management; Operations Management",
       "email": "chia@umpsa.edu.my",
-      "quote": "",
+      "quote": "Calm in purpose, bold in action",
       "status": "active",
       "image": "dr-chia.webp",
       "profile": "chia",
       "linkedin": "",
-      "citation": 30,
-      "publications": 53,
-      "h-index": 50
+      "citation": 10,
+      "publications": 50,
+      "h-index": 38
     },
     {
       "id": "07",
@@ -112,14 +112,14 @@
       "sort_order": 7,
       "expertise": "Engineering Management; Supply Chain; Logistics Management",
       "email": "leekhailoon@umpsa.edu.my",
-      "quote": "",
+      "quote": "Every accomplishment starts with the decision to try",
       "status": "active",
       "image": "dr-lee-khai.webp",
       "profile": "khai",
       "linkedin": "",
-      "citation": 32,
-      "publications": 14,
-      "h-index": 42
+      "citation": 31,
+      "publications": 42,
+      "h-index": 40
     },
     {
       "id": "08",
@@ -129,14 +129,14 @@
       "sort_order": 8,
       "expertise": "Project Management; Construction Management; Strategic Planning",
       "email": "mohammadwaffy@umpsa.edu.my",
-      "quote": "",
+      "quote": "?Nurture responsible knowledge with the light of true wisdom?",
       "status": "active",
       "image": "dr-waffy.webp",
       "profile": "waffy",
       "linkedin": "",
-      "citation": 11,
-      "publications": 9,
-      "h-index": 47
+      "citation": 30,
+      "publications": 47,
+      "h-index": 19
     },
     {
       "id": "09",
@@ -146,14 +146,14 @@
       "sort_order": 9,
       "expertise": "Technology Management; Industrial Operations; Manufacturing",
       "email": "ghazali@umpsa.edu.my",
-      "quote": "",
+      "quote": "Never stop learning, because life never stops teaching.",
       "status": "active",
       "image": "dr-ghazali.webp",
       "profile": "ghazali",
       "linkedin": "",
-      "citation": 31,
-      "publications": 55,
-      "h-index": 42
+      "citation": 49,
+      "publications": 18,
+      "h-index": 8
     },
     {
       "id": "10",
@@ -168,9 +168,9 @@
       "image": "dr-hanafiah.webp",
       "profile": "hanafiah",
       "linkedin": "",
-      "citation": 8,
-      "publications": 40,
-      "h-index": 39
+      "citation": 16,
+      "publications": 35,
+      "h-index": 6
     },
     {
       "id": "11",
@@ -185,9 +185,9 @@
       "image": "dr-ashraf.webp",
       "profile": "ashraf",
       "linkedin": "",
-      "citation": 48,
-      "publications": 48,
-      "h-index": 50
+      "citation": 11,
+      "publications": 43,
+      "h-index": 53
     },
     {
       "id": "12",
@@ -202,9 +202,9 @@
       "image": "dr-fakhrul.webp",
       "profile": "fakhrul",
       "linkedin": "",
-      "citation": 39,
-      "publications": 26,
-      "h-index": 9
+      "citation": 19,
+      "publications": 35,
+      "h-index": 11
     },
     {
       "id": "13",
@@ -219,9 +219,9 @@
       "image": "dr-noraina.webp",
       "profile": "noraina",
       "linkedin": "",
-      "citation": 12,
-      "publications": 43,
-      "h-index": 8
+      "citation": 25,
+      "publications": 36,
+      "h-index": 5
     },
     {
       "id": "14",
@@ -236,9 +236,9 @@
       "image": "dr-noraine.webp",
       "profile": "noraine",
       "linkedin": "",
-      "citation": 25,
-      "publications": 31,
-      "h-index": 41
+      "citation": 11,
+      "publications": 29,
+      "h-index": 43
     },
     {
       "id": "15",
@@ -253,9 +253,9 @@
       "image": "dr-noridayu.webp",
       "profile": "noridayu",
       "linkedin": "",
-      "citation": 7,
-      "publications": 17,
-      "h-index": 43
+      "citation": 47,
+      "publications": 19,
+      "h-index": 36
     },
     {
       "id": "16",
@@ -270,9 +270,9 @@
       "image": "dr-norwazli.webp",
       "profile": "norwazli",
       "linkedin": "",
-      "citation": 29,
-      "publications": 50,
-      "h-index": 14
+      "citation": 32,
+      "publications": 11,
+      "h-index": 15
     },
     {
       "id": "17",
@@ -287,9 +287,9 @@
       "image": "dr-ashykin.webp",
       "profile": "ashykin",
       "linkedin": "",
-      "citation": 8,
-      "publications": 29,
-      "h-index": 20
+      "citation": 42,
+      "publications": 25,
+      "h-index": 23
     },
     {
       "id": "18",
@@ -304,9 +304,9 @@
       "image": "dr-fadzline.webp",
       "profile": "fadzline",
       "linkedin": "",
-      "citation": 25,
-      "publications": 7,
-      "h-index": 19
+      "citation": 24,
+      "publications": 51,
+      "h-index": 50
     },
     {
       "id": "19",
@@ -321,9 +321,9 @@
       "image": "dr-reeduan.webp",
       "profile": "reeduan",
       "linkedin": "",
-      "citation": 35,
-      "publications": 33,
-      "h-index": 22
+      "citation": 7,
+      "publications": 55,
+      "h-index": 44
     },
     {
       "id": "20",
@@ -338,9 +338,9 @@
       "image": "dr-salina.webp",
       "profile": "salina",
       "linkedin": "",
-      "citation": 13,
-      "publications": 8,
-      "h-index": 40
+      "citation": 27,
+      "publications": 39,
+      "h-index": 30
     },
     {
       "id": "21",
@@ -355,9 +355,9 @@
       "image": "dr-suhaidah.webp",
       "profile": "suhaidah",
       "linkedin": "",
-      "citation": 5,
-      "publications": 42,
-      "h-index": 53
+      "citation": 11,
+      "publications": 44,
+      "h-index": 28
     },
     {
       "id": "22",
@@ -372,9 +372,9 @@
       "image": "dr-yudi.webp",
       "profile": "yudi",
       "linkedin": "",
-      "citation": 19,
-      "publications": 38,
-      "h-index": 32
+      "citation": 41,
+      "publications": 30,
+      "h-index": 49
     },
     {
       "id": "23",
@@ -389,8 +389,8 @@
       "image": "dr.-zarith.webp",
       "profile": "zarith-sufia",
       "linkedin": "",
-      "citation": 5,
-      "publications": 41,
+      "citation": 23,
+      "publications": 43,
       "h-index": 51
     }
   ]
