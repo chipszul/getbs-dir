@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30 21:56:20",
+  "updated": "2026-05-30 22:11:49",
   "total": 25,
   "staff": [
     {
@@ -10,14 +10,14 @@
       "sort_order": 1,
       "expertise": "Business Management; Strategic Planning; Entrepreneurship",
       "email": "hanafiah@umpsa.edu.my",
-      "quote": "?",
+      "quote": "",
       "status": "active",
       "image": "dr-hanafiah.webp",
       "profile": "hanafiah",
       "linkedin": "",
-      "citation": 9,
-      "publications": 15,
-      "h-index": 21
+      "citation": 18,
+      "publications": 22,
+      "h-index": 9
     },
     {
       "id": "13",
@@ -32,9 +32,9 @@
       "image": "dr-noraina.webp",
       "profile": "noraina",
       "linkedin": "",
-      "citation": 34,
-      "publications": 55,
-      "h-index": 48
+      "citation": 14,
+      "publications": 30,
+      "h-index": 39
     },
     {
       "id": "02",
@@ -49,9 +49,9 @@
       "image": "dr-charis.webp",
       "profile": "charis",
       "linkedin": "",
-      "citation": 14,
-      "publications": 21,
-      "h-index": 36
+      "citation": 7,
+      "publications": 42,
+      "h-index": 35
     },
     {
       "id": "01",
@@ -66,9 +66,9 @@
       "image": "dr-huzaimi.webp",
       "profile": "huzaimi",
       "linkedin": "",
-      "citation": 50,
-      "publications": 25,
-      "h-index": 19
+      "citation": 24,
+      "publications": 35,
+      "h-index": 46
     },
     {
       "id": "03",
@@ -83,9 +83,9 @@
       "image": "dr-jackkie.webp",
       "profile": "jackkie",
       "linkedin": "",
-      "citation": 35,
-      "publications": 41,
-      "h-index": 16
+      "citation": 51,
+      "publications": 15,
+      "h-index": 47
     },
     {
       "id": 24,
@@ -117,9 +117,9 @@
       "image": "dr-imaduddin.webp",
       "profile": "imaduddin",
       "linkedin": "",
-      "citation": 55,
-      "publications": 37,
-      "h-index": 54
+      "citation": 20,
+      "publications": 31,
+      "h-index": 43
     },
     {
       "id": "18",
@@ -134,9 +134,9 @@
       "image": "dr-fadzline.webp",
       "profile": "fadzline",
       "linkedin": "",
-      "citation": 43,
-      "publications": 30,
-      "h-index": 48
+      "citation": 42,
+      "publications": 50,
+      "h-index": 20
     },
     {
       "id": "05",
@@ -151,9 +151,9 @@
       "image": "dr-irene.webp",
       "profile": "irene",
       "linkedin": "",
-      "citation": 37,
-      "publications": 23,
-      "h-index": 37
+      "citation": 10,
+      "publications": 18,
+      "h-index": 6
     },
     {
       "id": "06",
@@ -168,9 +168,9 @@
       "image": "dr-chia.webp",
       "profile": "chia",
       "linkedin": "",
-      "citation": 32,
-      "publications": 34,
-      "h-index": 14
+      "citation": 36,
+      "publications": 40,
+      "h-index": 49
     },
     {
       "id": 25,
@@ -202,9 +202,9 @@
       "image": "dr-lee-khai.webp",
       "profile": "khai",
       "linkedin": "",
-      "citation": 48,
-      "publications": 13,
-      "h-index": 13
+      "citation": 52,
+      "publications": 17,
+      "h-index": 26
     },
     {
       "id": "08",
@@ -219,9 +219,9 @@
       "image": "dr-waffy.webp",
       "profile": "waffy",
       "linkedin": "",
-      "citation": 19,
-      "publications": 53,
-      "h-index": 24
+      "citation": 36,
+      "publications": 12,
+      "h-index": 46
     },
     {
       "id": "09",
@@ -236,9 +236,9 @@
       "image": "dr-ghazali.webp",
       "profile": "ghazali",
       "linkedin": "",
-      "citation": 23,
-      "publications": 46,
-      "h-index": 32
+      "citation": 31,
+      "publications": 19,
+      "h-index": 51
     },
     {
       "id": "11",
@@ -253,9 +253,9 @@
       "image": "dr-ashraf.webp",
       "profile": "ashraf",
       "linkedin": "",
-      "citation": 16,
-      "publications": 32,
-      "h-index": 21
+      "citation": 50,
+      "publications": 41,
+      "h-index": 19
     },
     {
       "id": "12",
@@ -270,9 +270,9 @@
       "image": "dr-fakhrul.webp",
       "profile": "fakhrul",
       "linkedin": "",
-      "citation": 48,
-      "publications": 30,
-      "h-index": 28
+      "citation": 36,
+      "publications": 36,
+      "h-index": 51
     },
     {
       "id": "14",
@@ -287,9 +287,9 @@
       "image": "dr-noraine.webp",
       "profile": "noraine",
       "linkedin": "",
-      "citation": 31,
-      "publications": 41,
-      "h-index": 19
+      "citation": 52,
+      "publications": 51,
+      "h-index": 42
     },
     {
       "id": "15",
@@ -299,14 +299,14 @@
       "sort_order": 15,
       "expertise": "Finance; Financial Management; Accounting",
       "email": "noridayu@umpsa.edu.my",
-      "quote": "?",
+      "quote": "",
       "status": "active",
       "image": "dr-noridayu.webp",
       "profile": "noridayu",
       "linkedin": "",
-      "citation": 38,
-      "publications": 11,
-      "h-index": 38
+      "citation": 41,
+      "publications": 30,
+      "h-index": 23
     },
     {
       "id": "16",
@@ -321,9 +321,9 @@
       "image": "dr-norwazli.webp",
       "profile": "norwazli",
       "linkedin": "",
-      "citation": 26,
-      "publications": 21,
-      "h-index": 43
+      "citation": 33,
+      "publications": 45,
+      "h-index": 44
     },
     {
       "id": "17",
@@ -338,9 +338,9 @@
       "image": "dr-ashykin.webp",
       "profile": "ashykin",
       "linkedin": "",
-      "citation": 38,
+      "citation": 45,
       "publications": 35,
-      "h-index": 54
+      "h-index": 14
     },
     {
       "id": "19",
@@ -355,9 +355,9 @@
       "image": "dr-reeduan.webp",
       "profile": "reeduan",
       "linkedin": "",
-      "citation": 12,
-      "publications": 38,
-      "h-index": 39
+      "citation": 41,
+      "publications": 22,
+      "h-index": 25
     },
     {
       "id": "20",
@@ -372,9 +372,9 @@
       "image": "dr-salina.webp",
       "profile": "salina",
       "linkedin": "",
-      "citation": 54,
-      "publications": 28,
-      "h-index": 44
+      "citation": 38,
+      "publications": 13,
+      "h-index": 27
     },
     {
       "id": "21",
@@ -389,9 +389,9 @@
       "image": "dr-suhaidah.webp",
       "profile": "suhaidah",
       "linkedin": "",
-      "citation": 37,
-      "publications": 7,
-      "h-index": 33
+      "citation": 15,
+      "publications": 27,
+      "h-index": 45
     },
     {
       "id": "22",
@@ -406,9 +406,9 @@
       "image": "dr-yudi.webp",
       "profile": "yudi",
       "linkedin": "",
-      "citation": 47,
-      "publications": 32,
-      "h-index": 27
+      "citation": 21,
+      "publications": 19,
+      "h-index": 6
     },
     {
       "id": "23",
@@ -423,9 +423,9 @@
       "image": "dr-zarith.webp",
       "profile": "zarith-sufia",
       "linkedin": "",
-      "citation": 47,
-      "publications": 13,
-      "h-index": 39
+      "citation": 28,
+      "publications": 26,
+      "h-index": 19
     }
   ]
 }
