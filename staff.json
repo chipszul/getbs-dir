@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31 00:16:28",
+  "updated": "2026-05-31 00:33:46",
   "total": 25,
   "staff": [
     {
@@ -14,11 +14,11 @@
       "status": "active",
       "image": "dr-hanafiah.webp",
       "profile": "hanafiah",
-      "cv": "hanafiah",
+      "cv": "https://example.com/cv/hanafiah.pdf",
       "linkedin": "",
-      "citation": 48,
-      "publications": 28,
-      "h-index": 48
+      "citation": 52,
+      "publications": 41,
+      "h-index": 8
     },
     {
       "id": "13",
@@ -34,9 +34,9 @@
       "profile": "noraina",
       "cv": "",
       "linkedin": "",
-      "citation": 27,
-      "publications": 9,
-      "h-index": 50
+      "citation": 51,
+      "publications": 7,
+      "h-index": 36
     },
     {
       "id": "02",
@@ -52,9 +52,9 @@
       "profile": "charis",
       "cv": "charis",
       "linkedin": "",
-      "citation": 35,
+      "citation": 5,
       "publications": 45,
-      "h-index": 30
+      "h-index": 16
     },
     {
       "id": "01",
@@ -68,11 +68,11 @@
       "status": "active",
       "image": "dr-huzaimi.webp",
       "profile": "huzaimi",
-      "cv": "https://example.com/cv/ahmad-huzaimi.pdf",
+      "cv": "example.com/cv/ahmad-huzaimi.pdf",
       "linkedin": "",
-      "citation": 48,
-      "publications": 44,
-      "h-index": 45
+      "citation": 42,
+      "publications": 10,
+      "h-index": 10
     },
     {
       "id": "03",
@@ -88,9 +88,9 @@
       "profile": "jackkie",
       "cv": "",
       "linkedin": "",
-      "citation": 29,
-      "publications": 33,
-      "h-index": 55
+      "citation": 11,
+      "publications": 24,
+      "h-index": 8
     },
     {
       "id": 24,
@@ -124,9 +124,9 @@
       "profile": "imaduddin",
       "cv": "",
       "linkedin": "",
-      "citation": 11,
-      "publications": 14,
-      "h-index": 13
+      "citation": 17,
+      "publications": 37,
+      "h-index": 50
     },
     {
       "id": "18",
@@ -142,9 +142,9 @@
       "profile": "fadzline",
       "cv": "",
       "linkedin": "",
-      "citation": 5,
+      "citation": 36,
       "publications": 6,
-      "h-index": 40
+      "h-index": 27
     },
     {
       "id": "05",
@@ -161,8 +161,8 @@
       "cv": "",
       "linkedin": "",
       "citation": 32,
-      "publications": 41,
-      "h-index": 6
+      "publications": 52,
+      "h-index": 40
     },
     {
       "id": "06",
@@ -178,9 +178,9 @@
       "profile": "chia",
       "cv": "",
       "linkedin": "",
-      "citation": 20,
-      "publications": 31,
-      "h-index": 21
+      "citation": 21,
+      "publications": 47,
+      "h-index": 16
     },
     {
       "id": 25,
@@ -214,9 +214,9 @@
       "profile": "khai",
       "cv": "",
       "linkedin": "",
-      "citation": 29,
-      "publications": 55,
-      "h-index": 40
+      "citation": 12,
+      "publications": 24,
+      "h-index": 16
     },
     {
       "id": "08",
@@ -232,9 +232,9 @@
       "profile": "waffy",
       "cv": "",
       "linkedin": "",
-      "citation": 50,
-      "publications": 51,
-      "h-index": 54
+      "citation": 41,
+      "publications": 30,
+      "h-index": 10
     },
     {
       "id": "09",
@@ -250,9 +250,9 @@
       "profile": "ghazali",
       "cv": "",
       "linkedin": "",
-      "citation": 17,
-      "publications": 43,
-      "h-index": 26
+      "citation": 20,
+      "publications": 19,
+      "h-index": 35
     },
     {
       "id": "11",
@@ -268,9 +268,9 @@
       "profile": "ashraf",
       "cv": "",
       "linkedin": "",
-      "citation": 23,
-      "publications": 15,
-      "h-index": 30
+      "citation": 46,
+      "publications": 7,
+      "h-index": 8
     },
     {
       "id": "12",
@@ -286,9 +286,9 @@
       "profile": "fakhrul",
       "cv": "",
       "linkedin": "",
-      "citation": 8,
-      "publications": 33,
-      "h-index": 15
+      "citation": 34,
+      "publications": 39,
+      "h-index": 51
     },
     {
       "id": "14",
@@ -304,9 +304,9 @@
       "profile": "noraine",
       "cv": "",
       "linkedin": "",
-      "citation": 39,
-      "publications": 44,
-      "h-index": 20
+      "citation": 30,
+      "publications": 51,
+      "h-index": 37
     },
     {
       "id": "15",
@@ -322,9 +322,9 @@
       "profile": "noridayu",
       "cv": "",
       "linkedin": "",
-      "citation": 52,
-      "publications": 53,
-      "h-index": 19
+      "citation": 21,
+      "publications": 22,
+      "h-index": 5
     },
     {
       "id": "16",
@@ -340,9 +340,9 @@
       "profile": "norwazli",
       "cv": "",
       "linkedin": "",
-      "citation": 10,
-      "publications": 55,
-      "h-index": 44
+      "citation": 30,
+      "publications": 9,
+      "h-index": 47
     },
     {
       "id": "17",
@@ -358,9 +358,9 @@
       "profile": "ashykin",
       "cv": "",
       "linkedin": "",
-      "citation": 32,
-      "publications": 35,
-      "h-index": 35
+      "citation": 29,
+      "publications": 28,
+      "h-index": 40
     },
     {
       "id": "19",
@@ -376,9 +376,9 @@
       "profile": "reeduan",
       "cv": "",
       "linkedin": "",
-      "citation": 52,
-      "publications": 13,
-      "h-index": 21
+      "citation": 31,
+      "publications": 38,
+      "h-index": 43
     },
     {
       "id": "20",
@@ -394,9 +394,9 @@
       "profile": "salina",
       "cv": "",
       "linkedin": "",
-      "citation": 11,
-      "publications": 9,
-      "h-index": 12
+      "citation": 13,
+      "publications": 18,
+      "h-index": 42
     },
     {
       "id": "21",
@@ -412,9 +412,9 @@
       "profile": "suhaidah",
       "cv": "",
       "linkedin": "",
-      "citation": 6,
-      "publications": 40,
-      "h-index": 18
+      "citation": 28,
+      "publications": 12,
+      "h-index": 23
     },
     {
       "id": "22",
@@ -431,8 +431,8 @@
       "cv": "",
       "linkedin": "",
       "citation": 33,
-      "publications": 37,
-      "h-index": 34
+      "publications": 7,
+      "h-index": 23
     },
     {
       "id": "23",
@@ -448,9 +448,9 @@
       "profile": "zarith-sufia",
       "cv": "",
       "linkedin": "",
-      "citation": 17,
-      "publications": 8,
-      "h-index": 52
+      "citation": 48,
+      "publications": 20,
+      "h-index": 21
     }
   ]
 }
