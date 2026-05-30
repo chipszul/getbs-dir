@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31 00:37:02",
+  "updated": "2026-05-31 00:38:23",
   "total": 25,
   "staff": [
     {
@@ -16,9 +16,9 @@
       "profile": "hanafiah",
       "cv": "https://example.com/cv/hanafiah.pdf",
       "linkedin": "",
-      "citation": 47,
-      "publications": 27,
-      "h-index": 45
+      "citation": 20,
+      "publications": 18,
+      "h-index": 34
     },
     {
       "id": "13",
@@ -34,9 +34,9 @@
       "profile": "noraina",
       "cv": "",
       "linkedin": "",
-      "citation": 7,
-      "publications": 15,
-      "h-index": 52
+      "citation": 29,
+      "publications": 20,
+      "h-index": 33
     },
     {
       "id": "02",
@@ -45,16 +45,16 @@
       "featured": "",
       "sort_order": 2,
       "expertise": "Organisational Behaviour; Human Resource Management; Leadership",
-      "email": "kolik@umpsa.edu.my",
+      "email": "charis@umpsa.edu.my",
       "quote": "Empowering minds through knowledge, inspiring growth through teaching",
       "status": "active",
       "image": "dr-charis.webp",
       "profile": "charis",
-      "cv": "charis",
+      "cv": "https://example.com/cv/charis.pdf",
       "linkedin": "",
-      "citation": 27,
-      "publications": 50,
-      "h-index": 41
+      "citation": 12,
+      "publications": 45,
+      "h-index": 36
     },
     {
       "id": "01",
@@ -70,9 +70,9 @@
       "profile": "huzaimi",
       "cv": "https://example.com/cv/ahmad-huzaimi.pdf",
       "linkedin": "",
-      "citation": 28,
-      "publications": 50,
-      "h-index": 12
+      "citation": 53,
+      "publications": 38,
+      "h-index": 18
     },
     {
       "id": "03",
@@ -81,16 +81,16 @@
       "featured": "",
       "sort_order": 3,
       "expertise": "Business Analytics; Data Analytics; Decision Science",
-      "email": "charis@umpsa.edu.my",
+      "email": "jackkie@umpsa.edu.my",
       "quote": "Life isn?t a hundred-meter race against your friends, but a lifelong marathon against yourself.",
       "status": "active",
       "image": "dr-jackkie.webp",
       "profile": "jackkie",
       "cv": "",
       "linkedin": "",
-      "citation": 26,
-      "publications": 46,
-      "h-index": 33
+      "citation": 19,
+      "publications": 44,
+      "h-index": 36
     },
     {
       "id": 24,
@@ -124,9 +124,9 @@
       "profile": "imaduddin",
       "cv": "",
       "linkedin": "",
-      "citation": 14,
-      "publications": 18,
-      "h-index": 44
+      "citation": 24,
+      "publications": 9,
+      "h-index": 25
     },
     {
       "id": "18",
@@ -142,9 +142,9 @@
       "profile": "fadzline",
       "cv": "",
       "linkedin": "",
-      "citation": 52,
-      "publications": 15,
-      "h-index": 14
+      "citation": 16,
+      "publications": 9,
+      "h-index": 46
     },
     {
       "id": "05",
@@ -161,8 +161,8 @@
       "cv": "",
       "linkedin": "",
       "citation": 29,
-      "publications": 22,
-      "h-index": 52
+      "publications": 27,
+      "h-index": 46
     },
     {
       "id": "06",
@@ -178,9 +178,9 @@
       "profile": "chia",
       "cv": "",
       "linkedin": "",
-      "citation": 34,
-      "publications": 32,
-      "h-index": 29
+      "citation": 52,
+      "publications": 13,
+      "h-index": 53
     },
     {
       "id": 25,
@@ -214,9 +214,9 @@
       "profile": "khai",
       "cv": "",
       "linkedin": "",
-      "citation": 31,
-      "publications": 20,
-      "h-index": 42
+      "citation": 43,
+      "publications": 23,
+      "h-index": 29
     },
     {
       "id": "08",
@@ -232,9 +232,9 @@
       "profile": "waffy",
       "cv": "",
       "linkedin": "",
-      "citation": 17,
-      "publications": 5,
-      "h-index": 37
+      "citation": 37,
+      "publications": 51,
+      "h-index": 15
     },
     {
       "id": "09",
@@ -250,9 +250,9 @@
       "profile": "ghazali",
       "cv": "",
       "linkedin": "",
-      "citation": 11,
-      "publications": 50,
-      "h-index": 35
+      "citation": 10,
+      "publications": 42,
+      "h-index": 40
     },
     {
       "id": "11",
@@ -268,8 +268,8 @@
       "profile": "ashraf",
       "cv": "",
       "linkedin": "",
-      "citation": 32,
-      "publications": 20,
+      "citation": 10,
+      "publications": 39,
       "h-index": 26
     },
     {
@@ -286,9 +286,9 @@
       "profile": "fakhrul",
       "cv": "",
       "linkedin": "",
-      "citation": 46,
-      "publications": 32,
-      "h-index": 30
+      "citation": 14,
+      "publications": 51,
+      "h-index": 10
     },
     {
       "id": "14",
@@ -304,9 +304,9 @@
       "profile": "noraine",
       "cv": "",
       "linkedin": "",
-      "citation": 46,
-      "publications": 23,
-      "h-index": 53
+      "citation": 39,
+      "publications": 27,
+      "h-index": 9
     },
     {
       "id": "15",
@@ -322,9 +322,9 @@
       "profile": "noridayu",
       "cv": "",
       "linkedin": "",
-      "citation": 42,
-      "publications": 28,
-      "h-index": 28
+      "citation": 16,
+      "publications": 10,
+      "h-index": 13
     },
     {
       "id": "16",
@@ -340,9 +340,9 @@
       "profile": "norwazli",
       "cv": "",
       "linkedin": "",
-      "citation": 16,
-      "publications": 51,
-      "h-index": 38
+      "citation": 35,
+      "publications": 17,
+      "h-index": 33
     },
     {
       "id": "17",
@@ -358,9 +358,9 @@
       "profile": "ashykin",
       "cv": "",
       "linkedin": "",
-      "citation": 35,
-      "publications": 8,
-      "h-index": 16
+      "citation": 31,
+      "publications": 29,
+      "h-index": 55
     },
     {
       "id": "19",
@@ -376,9 +376,9 @@
       "profile": "reeduan",
       "cv": "",
       "linkedin": "",
-      "citation": 46,
-      "publications": 32,
-      "h-index": 54
+      "citation": 11,
+      "publications": 25,
+      "h-index": 35
     },
     {
       "id": "20",
@@ -394,9 +394,9 @@
       "profile": "salina",
       "cv": "",
       "linkedin": "",
-      "citation": 38,
-      "publications": 33,
-      "h-index": 48
+      "citation": 45,
+      "publications": 42,
+      "h-index": 9
     },
     {
       "id": "21",
@@ -412,9 +412,9 @@
       "profile": "suhaidah",
       "cv": "",
       "linkedin": "",
-      "citation": 53,
-      "publications": 5,
-      "h-index": 30
+      "citation": 49,
+      "publications": 42,
+      "h-index": 12
     },
     {
       "id": "22",
@@ -431,8 +431,8 @@
       "cv": "",
       "linkedin": "",
       "citation": 11,
-      "publications": 50,
-      "h-index": 9
+      "publications": 32,
+      "h-index": 45
     },
     {
       "id": "23",
@@ -448,9 +448,9 @@
       "profile": "zarith-sufia",
       "cv": "",
       "linkedin": "",
-      "citation": 49,
-      "publications": 7,
-      "h-index": 47
+      "citation": 31,
+      "publications": 46,
+      "h-index": 51
     }
   ]
 }
