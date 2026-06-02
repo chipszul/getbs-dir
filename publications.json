@@ -1,38 +1,38 @@
 {
-  "updated": "2026-06-03 01:00:03",
+  "updated": "2026-06-03 01:12:49",
   "total": 4,
   "publications": [
     {
       "staff_id": "01",
       "username": "ahuzaimi",
       "publication_title": "Project 001",
-      "year": "",
-      "type": "",
-      "url": ""
+      "year": 2023,
+      "type": "Journal",
+      "url": "https://example.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
     },
     {
       "staff_id": "01",
       "username": "ahuzaimi",
       "publication_title": "Project 002",
-      "year": "",
-      "type": "",
-      "url": ""
+      "year": 2024,
+      "type": "Conference",
+      "url": "https://microsoft.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
     },
     {
       "staff_id": "01",
       "username": "ahuzaimi",
       "publication_title": "Project 003",
-      "year": "",
-      "type": "",
-      "url": ""
+      "year": 2025,
+      "type": "Books",
+      "url": "https://docs.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
     },
     {
       "staff_id": "01",
       "username": "ahuzaimi",
       "publication_title": "Project 004",
-      "year": "",
-      "type": "",
-      "url": ""
+      "year": 2026,
+      "type": "Others",
+      "url": "https://adobe.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
     }
   ]
 }
