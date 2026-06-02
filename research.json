@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03 00:59:53",
-  "total": 8,
+  "updated": "2026-06-03 02:12:51",
+  "total": 10,
   "research": [
     {
       "staff_id": "01",
@@ -97,6 +97,30 @@
       "badge_2": "Member",
       "badge_3": "UNIMADANI Grant",
       "badge_4": "Ministry of Finance"
+    },
+    {
+      "staff_id": "18",
+      "username": "fadzline",
+      "project_title": "Memacu Keusahawanan Agroteknologi bagi Komuniti Pekan, Pahang (CDU240115)",
+      "start_date": "15/10/2024",
+      "end_date": "14/01/2026",
+      "amount": "",
+      "badge_1": "Ongoing",
+      "badge_2": "",
+      "badge_3": "",
+      "badge_4": ""
+    },
+    {
+      "staff_id": "18",
+      "username": "fadzline",
+      "project_title": "The Development of Sustainable Human Resource Management-Outcomes Model in Malaysia (RDU233410)",
+      "start_date": "25/12/2023",
+      "end_date": "24/12/2025",
+      "amount": "",
+      "badge_1": "Completed",
+      "badge_2": "",
+      "badge_3": "",
+      "badge_4": ""
     }
   ]
 }
