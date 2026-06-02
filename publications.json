@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03 02:12:45",
-  "total": 7,
+  "updated": "2026-06-03 03:52:24",
+  "total": 8,
   "publications": [
     {
       "staff_id": "01",
@@ -8,7 +8,7 @@
       "publication_title": "Project 001",
       "year": 2023,
       "type": "Journal",
-      "url": "https://example.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
+      "url": "https//example.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
     },
     {
       "staff_id": "01",
@@ -16,7 +16,7 @@
       "publication_title": "Project 002",
       "year": 2024,
       "type": "Conference",
-      "url": "https://microsoft.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
+      "url": "https:/microsoft.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
     },
     {
       "staff_id": "01",
@@ -57,6 +57,14 @@
       "year": 2025,
       "type": "Journal",
       "url": "http://malaysianforester.my/forestry/archives_journal_volume.php?volume=88&nombor=1"
+    },
+    {
+      "staff_id": "02",
+      "username": "charis",
+      "publication_title": "",
+      "year": "",
+      "type": "",
+      "url": ""
     }
   ]
 }
