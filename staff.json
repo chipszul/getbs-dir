@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-02 20:33:54",
+  "updated": "2026-06-02 20:35:27",
   "total": 25,
   "staff": [
     {
       "staff_id": "10",
       "username": "hanafiah",
-      "name": "Dr. Mohd Hanafiah Ahmad",
+      "name": "Dr. Mohd Hanafiah bin Ahmad",
       "position": "Dean",
       "featured": "yes",
       "sort_order": 1,
@@ -25,7 +25,7 @@
     {
       "staff_id": "13",
       "username": "noraina",
-      "name": "Dr. Noraina Mazuin Sapuan",
+      "name": "Dr. Noraina Mazuin bt Sapuan",
       "position": "Head of Department",
       "featured": "yes",
       "sort_order": 1,
@@ -65,7 +65,7 @@
     {
       "staff_id": "01",
       "username": "ahuzaimi",
-      "name": "Dr. Ahmad Huzaimi Abd Aziz",
+      "name": "Dr. Ahmad Huzaimi b. Abd Aziz",
       "position": "Academic Coordinator (MPM)",
       "featured": "yes",
       "sort_order": 3,
