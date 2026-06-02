@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-02 20:35:27",
+  "updated": "2026-06-02 21:16:27",
   "total": 25,
   "staff": [
     {
       "staff_id": "10",
       "username": "hanafiah",
-      "name": "Dr. Mohd Hanafiah bin Ahmad",
+      "name": "Dr. Mohd Hanafiah Ahmad",
       "position": "Dean",
       "featured": "yes",
       "sort_order": 1,
@@ -25,7 +25,7 @@
     {
       "staff_id": "13",
       "username": "noraina",
-      "name": "Dr. Noraina Mazuin bt Sapuan",
+      "name": "Dr. Noraina Mazuin Sapuan",
       "position": "Head of Department",
       "featured": "yes",
       "sort_order": 1,
@@ -105,7 +105,7 @@
     {
       "staff_id": "24",
       "username": "nisaabdulaziz",
-      "name": "Khairunnisa Binti Abdul Aziz",
+      "name": "Khairunnisa Abdul Aziz",
       "position": "Academic Coordinator (Master of Business Administration)",
       "featured": "yes",
       "sort_order": 3,
