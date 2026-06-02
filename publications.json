@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03 01:12:49",
-  "total": 4,
+  "updated": "2026-06-03 02:12:45",
+  "total": 7,
   "publications": [
     {
       "staff_id": "01",
@@ -33,6 +33,30 @@
       "year": 2026,
       "type": "Others",
       "url": "https://adobe.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
+    },
+    {
+      "staff_id": "18",
+      "username": "fadzline",
+      "publication_title": "Design-driven sustainable business model innovation: The case of the Malaysian furniture industry",
+      "year": 2025,
+      "type": "Journal",
+      "url": "https://intellectdiscover.com/content/journals/10.1386/tmsd_00103_1"
+    },
+    {
+      "staff_id": "18",
+      "username": "fadzline",
+      "publication_title": "The paradoxes of sustainable HRM: Insights through the perspective of common good, green, social responsibility, and triple bottom line",
+      "year": 2025,
+      "type": "Journal",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/01672533251320795"
+    },
+    {
+      "staff_id": "18",
+      "username": "fadzline",
+      "publication_title": "Design-driven sustainable business model innovation: The case of the Malaysian furniture industry",
+      "year": 2025,
+      "type": "Journal",
+      "url": "http://malaysianforester.my/forestry/archives_journal_volume.php?volume=88&nombor=1"
     }
   ]
 }
