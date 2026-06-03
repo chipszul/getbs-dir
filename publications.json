@@ -1,70 +1,334 @@
 {
-  "updated": "2026-06-03 03:58:06",
-  "total": 8,
+  "updated": "2026-06-03 23:26:57",
+  "total": 41,
   "publications": [
     {
-      "staff_id": "01",
       "username": "ahuzaimi",
-      "publication_title": "Project 001-",
+      "staff_id": "1",
+      "publication_title": "Validation of Model Content through a Building Information Modelling-based Contract Administration",
       "year": 2023,
       "type": "Journal",
-      "url": "https//example.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
+      "url": "https://www.gbmrjournal.com/vol15no2s.htm"
     },
     {
-      "staff_id": "01",
       "username": "ahuzaimi",
-      "publication_title": "Project 002",
+      "staff_id": "1",
+      "publication_title": "Enhancing BIM-based Information Interoperability: Disputes Resolution from Legal and Contractual Perspectives",
+      "year": 2019,
+      "type": "Journal",
+      "url": "https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0001868"
+    },
+    {
+      "username": "ahuzaimi",
+      "staff_id": "1",
+      "publication_title": "Contractual issues for Building Information Modelling (BIM)-based construction projects: An exploratory case study",
+      "year": 2019,
+      "type": "Journal",
+      "url": "https://iopscience.iop.org/article/10.1088/1757-899X/513/1/012035/meta"
+    },
+    {
+      "username": "ahuzaimi",
+      "staff_id": "1",
+      "publication_title": "Contractual Challenges for BIM-based construction projects: a systematic review",
+      "year": 2018,
+      "type": "Journal",
+      "url": "https://www.emerald.com/bepam/article-abstract/8/4/372/63564/Contractual-challenges-for-BIM-based-construction?redirectedFrom=fulltext"
+    },
+    {
+      "username": "ahuzaimi",
+      "staff_id": "1",
+      "publication_title": "The Integration of Lean Construction and Sustainable Construction: A Stakeholder Perspective in Analyzing Sustainable Lean Construction Strategies in Malaysia",
+      "year": 2016,
+      "type": "Journal",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877050916323730"
+    },
+    {
+      "username": "chia",
+      "staff_id": "2",
+      "publication_title": "A Comprehensive Analysis of Safety Predictors in Construction Sites: A DEMATEL-Based Model",
       "year": 2024,
+      "type": "Journal",
+      "url": "http://web.usm.my/jcdc/vol29_s1_2024/jcdc2024.29.s1.3.pdf"
+    },
+    {
+      "username": "chia",
+      "staff_id": "2",
+      "publication_title": "Intention to engage in inter-contractor cooperation: a belief elicitation study in the construction industry",
+      "year": 2024,
+      "type": "Journal",
+      "url": "https://doi.org/10.1108/ECAM-06-2024-0709"
+    },
+    {
+      "username": "chia",
+      "staff_id": "2",
+      "publication_title": "Understanding the Causes of Design Errors in Construction Projects: A DEMATEL-Based Framework",
+      "year": 2024,
+      "type": "Journal",
+      "url": "https://ascelibrary.org/doi/abs/10.1061/JLADAH.LADR-1118"
+    },
+    {
+      "username": "chia",
+      "staff_id": "2",
+      "publication_title": "Predicting Intention to Use Alternative Dispute Resolution (ADR): An Empirical Test of Theory of Planned Behaviour (TPB) Model",
+      "year": 2021,
+      "type": "Journal",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/15623599.2018.1505026"
+    },
+    {
+      "username": "chia",
+      "staff_id": "2",
+      "publication_title": "Selection and use of Alternative Dispute Resolution (ADR) in construction projects ? Past and future research",
+      "year": 2016,
+      "type": "Journal",
+      "url": "https://doi.org/10.1016/j.ijproman.2015.12.008"
+    },
+    {
+      "username": "mohammadwaffy",
+      "staff_id": "3",
+      "publication_title": "Enhancing cost estimation performance through effective organizational control: the moderating role of project complexity in construction projects",
+      "year": 2023,
+      "type": "Journal",
+      "url": "https://doi.org/10.1080/15623599.2023.2286048"
+    },
+    {
+      "username": "mohammadwaffy",
+      "staff_id": "3",
+      "publication_title": "The moderating effect of project complexity on the relationship between organizational controls and cost estimation performance: A conceptual model",
+      "year": 2022,
       "type": "Conference",
-      "url": "https:microsoft.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
+      "url": "https://iopscience.iop.org/article/10.1088/1755-1315/1067/1/012045"
     },
     {
-      "staff_id": "01",
-      "username": "ahuzaimi",
-      "publication_title": "Project 003",
+      "username": "mohammadwaffy",
+      "staff_id": "3",
+      "publication_title": "Cost Estimation Performance in the Construction Projects: A Systematic Review and Future Directions",
+      "year": 2021,
+      "type": "Journal",
+      "url": "https://doi.org/10.15282/IJIM.11.1.2021.6131"
+    },
+    {
+      "username": "adibaziz",
+      "staff_id": "4",
+      "publication_title": "",
+      "year": "",
+      "type": "",
+      "url": ""
+    },
+    {
+      "username": "nisaabdulaziz",
+      "staff_id": "5",
+      "publication_title": "The impact of HRV biofeedback techniques on the business performance of small entrepreneurs in the Tanjung Batu Agropolitan Project community",
       "year": 2025,
-      "type": "Books",
-      "url": "//docs.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
+      "type": "Journal",
+      "url": "https://journalofappliedbioanalysis.com/the-impact-of-hrv-biofeedback-techniques-on-the-business-performance-of-small-entrepreneurs-in-the-tanjung-batu-agropolitan-project-community"
     },
     {
-      "staff_id": "01",
-      "username": "ahuzaimi",
-      "publication_title": "Project 004",
-      "year": 2026,
-      "type": "Others",
-      "url": "ttps://adobe.google.com/spreadsheets/d/10C195wApZg3vNGoUAAJQcpgJPTq5BxwqQGtFk9eVJZs/edit?gid=1746470822#gid=1746470822"
+      "username": "nisaabdulaziz",
+      "staff_id": "5",
+      "publication_title": "Exploring the impact of job satisfaction, motivation, and stress on employee performance in the construction sector",
+      "year": 2025,
+      "type": "Journal",
+      "url": "https://ideas.repec.org/a/bjx/jomwor/v2024y2024i4p848-855id550.html"
     },
     {
-      "staff_id": "18",
+      "username": "nisaabdulaziz",
+      "staff_id": "5",
+      "publication_title": "Examining The Factors Influencing University Students? Adoption Intention Towards Technology-Enhanced Learning",
+      "year": 2024,
+      "type": "Journal",
+      "url": "https://doi.org/10.60087/jaigs.v6i1.259"
+    },
+    {
+      "username": "nisaabdulaziz",
+      "staff_id": "5",
+      "publication_title": "Revealing the Factors Behind University Students? Loyalty towards ChatGPT",
+      "year": 2024,
+      "type": "Journal",
+      "url": "https://kuey.net/index.php/kuey/article/view/8848"
+    },
+    {
+      "username": "nisaabdulaziz",
+      "staff_id": "5",
+      "publication_title": "Discovering Islamic marketing potential in shaping blockchain-based halal logistic services: a bibliometric analysis",
+      "year": 2024,
+      "type": "Journal",
+      "url": "https://www.emerald.com/jima/article/16/3/870/1240255/Discovering-Islamic-marketing-potential-in-shaping"
+    },
+    {
+      "username": "nisaabdulaziz",
+      "staff_id": "5",
+      "publication_title": "Enhancing Operational Excellence of Wood and Furniture Manufacturing Industry in Malaysia: The Role of Lean Culture as a Generative Mechanism",
+      "year": 2023,
+      "type": "Conference",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-99-9848-7_14"
+    },
+    {
+      "username": "nisaabdulaziz",
+      "staff_id": "5",
+      "publication_title": "Developing a Skill-Set Model for Industrial Revolution 4.0 (IR4.0) Era: A Conceptual Paper",
+      "year": 2023,
+      "type": "Journal",
+      "url": "-"
+    },
+    {
       "username": "fadzline",
+      "staff_id": "6",
       "publication_title": "Design-driven sustainable business model innovation: The case of the Malaysian furniture industry",
       "year": 2025,
       "type": "Journal",
       "url": "https://intellectdiscover.com/content/journals/10.1386/tmsd_00103_1"
     },
     {
-      "staff_id": "18",
       "username": "fadzline",
+      "staff_id": "6",
       "publication_title": "The paradoxes of sustainable HRM: Insights through the perspective of common good, green, social responsibility, and triple bottom line",
       "year": 2025,
       "type": "Journal",
       "url": "https://journals.sagepub.com/doi/abs/10.1177/01672533251320795"
     },
     {
-      "staff_id": "18",
       "username": "fadzline",
+      "staff_id": "6",
       "publication_title": "Design-driven sustainable business model innovation: The case of the Malaysian furniture industry",
       "year": 2025,
       "type": "Journal",
       "url": "http://malaysianforester.my/forestry/archives_journal_volume.php?volume=88&nombor=1"
     },
     {
-      "staff_id": "02",
-      "username": "charis",
-      "publication_title": "",
-      "year": "",
-      "type": "",
-      "url": ""
+      "username": "noraina",
+      "staff_id": "7",
+      "publication_title": "The Roles of Waqf in Social Development: A Conceptual Review",
+      "year": 2025,
+      "type": "Journal",
+      "url": "//www.gbmrjournal.com/pdf/v17n1/V17N1-1.pdf"
+    },
+    {
+      "username": "noraina",
+      "staff_id": "7",
+      "publication_title": "Factors Influencing the Public's Intention to Contribute in Health Waqf",
+      "year": 2024,
+      "type": "Journal",
+      "url": "//umpir.ump.edu.my/id/eprint/39856/1/Insight%20Journal.pdf"
+    },
+    {
+      "username": "noraina",
+      "staff_id": "7",
+      "publication_title": "The Application of Knowledge Management in Disaster Management: Past, Present and Future Trends",
+      "year": 2024,
+      "type": "Journal",
+      "url": "//www.emerald.com/jkm/article-abstract/28/4/1141/1236704/The-application-of-knowledge-management-in?redirectedFrom=fulltext"
+    },
+    {
+      "username": "noraina",
+      "staff_id": "7",
+      "publication_title": "Women and Female Entrepreneurship: Past, Present, and Future Trends in Developing Countries",
+      "year": 2023,
+      "type": "Journal",
+      "url": "//eber.uek.krakow.pl/eber/article/view/2021"
+    },
+    {
+      "username": "noraina",
+      "staff_id": "7",
+      "publication_title": "Exploring Women's Retirement Literature Through Bibliometric Analysis Using VOSviewer",
+      "year": 2023,
+      "type": "Journal",
+      "url": "//umpir.ump.edu.my/id/eprint/39855/2/Exploring%20Women%27s%20Retirement.pdf"
+    },
+    {
+      "username": "noraina",
+      "staff_id": "7",
+      "publication_title": "Determinants of Improving the Financial Security of Retired Women in Malaysia",
+      "year": 2022,
+      "type": "Journal",
+      "url": "//koreascience.kr/article/JAKO202217458090628.page?&lang=en"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Is Child Marriage the Putative Answer to Illegal Sex and Pregnancy Out of Wedlock?",
+      "year": 2022,
+      "type": "Journal",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "The Seriousness of Child Marriage in Malaysia: An Insight from Experts",
+      "year": 2022,
+      "type": "Journal",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Sorotan Literatur",
+      "year": 2021,
+      "type": "Books",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Kempen Pembudayaan Norma Baharu",
+      "year": 2021,
+      "type": "Books",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Pandangan Masyarakat Malaysia terhadap Pembudayaan Norma Baharu",
+      "year": 2021,
+      "type": "Books",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Impak Kempen Pembudayaan Norma Baharu",
+      "year": 2021,
+      "type": "Books",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Pembudayaan Norma Baharu dalam Komuniti KAFA",
+      "year": 2021,
+      "type": "Books",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Child Marriage In Malaysia: Whose Rights Are Being Violated?",
+      "year": 2021,
+      "type": "Conference",
+      "url": "#"
+    },
+    {
+      "username": "sinebahari",
+      "staff_id": "8",
+      "publication_title": "Stop Child Marriage! An Interactive Booklet to Stop Child Marriage",
+      "year": 2019,
+      "type": "Conference",
+      "url": "#"
+    },
+    {
+      "username": "imaduddin",
+      "staff_id": "12",
+      "publication_title": "University-industry collaboration, firm performance and stakeholder theory",
+      "year": 2017,
+      "type": "Journal",
+      "url": "https://sbr.journals.unisel.edu.my/index.php/sbr/article/view/31"
+    },
+    {
+      "username": "imaduddin",
+      "staff_id": "12",
+      "publication_title": "Transformasi belia (Trans-B): pemacu kelestarian kehidupan belia luar bandar",
+      "year": 2015,
+      "type": "Book",
+      "url": "https://umpir.ump.edu.my/view/creators_all/Imaduddin%3D3AAbidin%3D3A%3D3A.default.html"
     }
   ]
 }
