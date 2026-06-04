@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04 10:47:23",
+  "updated": "2026-06-04 11:11:43",
   "total": 25,
   "staff": [
     {
@@ -85,7 +85,7 @@
     {
       "staff_id": "5",
       "username": "nisaabdulaziz",
-      "name": "Khairunnisa Abdul Aziz",
+      "name": "Dr. Khairunnisa Abdul Aziz",
       "grade": "Senior Lecturer",
       "position": "Academic Coordinator (Master of Business Administration)",
       "featured": "yes",
@@ -105,7 +105,7 @@
     {
       "staff_id": "6",
       "username": "fadzline",
-      "name": "Associate Professor Dr. Puteri Fadzline Muhamad Tamyez",
+      "name": "Dr. Puteri Fadzline Muhamad Tamyez",
       "grade": "Associate Professor",
       "position": "Get-BS Coordinator",
       "featured": "yes",
@@ -205,7 +205,7 @@
     {
       "staff_id": "11",
       "username": "jackkie",
-      "name": "Associate Professor Dr. Cheng Jack Kie",
+      "name": "Dr. Cheng Jack Kie",
       "grade": "Senior Lecturer",
       "position": "",
       "featured": "",
@@ -265,7 +265,7 @@
     {
       "staff_id": "14",
       "username": "leekhailoon",
-      "name": "Associate Professor Ts. Dr. Lee Khai Loon",
+      "name": "Ts. Dr. Lee Khai Loon",
       "grade": "Senior Lecturer",
       "position": "",
       "featured": "",
@@ -305,7 +305,7 @@
     {
       "staff_id": "16",
       "username": "ashrafauzi",
-      "name": "Associate Professor Ts. Dr. Muhammad Ashraf Fauzi",
+      "name": "Ts. Dr. Muhammad Ashraf Fauzi",
       "grade": "Associate Professor",
       "position": "",
       "featured": "",
@@ -425,7 +425,7 @@
     {
       "staff_id": "22",
       "username": "salinadaud",
-      "name": "Professor Dato' Dr. Salina Daud",
+      "name": "Dato' Dr. Salina Daud",
       "grade": "Senior Lecturer",
       "position": "",
       "featured": "",
