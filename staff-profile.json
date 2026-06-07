@@ -1,0 +1,187 @@
+{
+  "fadzline": {
+    "profile": {
+      "username": "fadzline",
+      "academic-rank": "Associate Professor",
+      "full-name": "Dr. Puteri Fadzline Muhamad Tamyez",
+      "appointment": "Coordinator, Master of Business Administration",
+      "quote-text": "Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "expertise": "Project Management;Technology Management;Digital Transformation;SME Industrial Operations"
+    },
+    "links": [
+      {
+        "username": "fadzline",
+        "group": "academicLinks",
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=xyz123"
+      },
+      {
+        "username": "fadzline",
+        "group": "academicLinks",
+        "label": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=00000000"
+      },
+      {
+        "username": "fadzline",
+        "group": "academicLinks",
+        "label": "CV",
+        "url": "#"
+      },
+      {
+        "username": "fadzline",
+        "group": "academicLinks",
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/puterifadzline"
+      },
+      {
+        "username": "fadzline",
+        "group": "connectLinks",
+        "label": "Facebook",
+        "url": "https://facebook.com/puterifadzline.official"
+      },
+      {
+        "username": "fadzline",
+        "group": "connectLinks",
+        "label": "Instagram",
+        "url": "https://instagram.com/puterifadzline"
+      },
+      {
+        "username": "fadzline",
+        "group": "connectLinks",
+        "label": "X",
+        "url": "https://x.com/puterifadzline"
+      },
+      {
+        "username": "fadzline",
+        "group": "connectLinks",
+        "label": "TikTok",
+        "url": "https://tiktok.com/@puterifadzline"
+      },
+      {
+        "username": "fadzline",
+        "group": "connectLinks",
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0000-0000-0000"
+      },
+      {
+        "username": "fadzline",
+        "group": "connectLinks",
+        "label": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Puteri-Fadzline"
+      },
+      {
+        "username": "fadzline",
+        "group": "connectLinks",
+        "label": "YouTube",
+        "url": "https://youtube.com/@puterifadzline"
+      }
+    ],
+    "about": {
+      "username": "fadzline",
+      "introduction": "Dr. Puteri Fadzline is a dedicated academician and corporate strategy consultant with over 15 years of experience in higher education and industrial transformation frameworks.",
+      "teaching-philosophy": "Her teaching philosophy revolves around industry-embedded experiential learning, ensuring business students gain real-world project delivery capabilities.",
+      "research-focus": "Current research tracks focus primarily on digital readiness among small-to-medium enterprises (SMEs) adapting to automation and AI governance systems.",
+      "affiliations": "Graduate Business School Network;Academy of Management;Project Management Institute (PMI) Malaysia Chapter;Malaysia AI Governance Society"
+    },
+    "highlights": [
+      {
+        "username": "fadzline",
+        "category": "awards",
+        "title": "Best Academic Excellence Award 2026",
+        "description": "Awarded for outstanding contribution to the development of regional digital talent and industry integration.",
+        "image": "highlight/fadzline-hl1.svg",
+        "featured": "1"
+      },
+      {
+        "username": "fadzline",
+        "category": "awards",
+        "title": "Gold Medal Award - Malaysia Technology Expo 2026",
+        "description": "Gold Medal Award at the Malaysia Technology Expo 2026 for the innovation in digital transformation.",
+        "image": "highlight/fadzline-hl1.svg",
+        "featured": "0"
+      },
+      {
+        "username": "fadzline",
+        "category": "awards",
+        "title": "Anugerah Penghargaan Pengajaran 2025",
+        "description": "Anugerah yang diberikan kerana sumbangan kepada pembangunan bakat digital dan integrasi industri.",
+        "image": "highlight/fadzline-hl1.svg",
+        "featured": "0"
+      },
+      {
+        "username": "fadzline",
+        "category": "industryCollaborators",
+        "title": "Digital Field Transformation Lab",
+        "description": "A joint collaborative hub established alongside local industrial partners to pilot lean automation practices.",
+        "image": "industry/fadzline-hl2.svg",
+        "featured": ""
+      },
+      {
+        "username": "fadzline",
+        "category": "studentCollaborators",
+        "title": "MBA Corporate Consulting Studio",
+        "description": "A flagship postgraduate program where student teams solve critical digital operational chokepoints for corporate SMEs.",
+        "image": "students/fadzline-hl3.svg",
+        "featured": ""
+      }
+    ],
+    "research": [
+      {
+        "username": "fadzline",
+        "role": "Principal Investigator",
+        "amount": "RM 280,000",
+        "title": "Developing Digital Project Capability Maturity Index for Public Sector Supply Chains",
+        "date": "2025-2027",
+        "featured": "1"
+      },
+      {
+        "username": "fadzline",
+        "role": "Co-Researcher",
+        "amount": "RM 120,000",
+        "title": "Executive Learning Transfer Models in Technical and Vocational Post-Graduate Curriculums",
+        "date": "2023-2025",
+        "featured": ""
+      }
+    ],
+    "publications": [
+      {
+        "username": "fadzline",
+        "type": "Journal Article",
+        "year": "2026",
+        "title": "Strategic technology adoption and operational resilience in public sector ecosystems: A dynamic capabilities approach",
+        "url": "https://doi.org/10.1016/j.giq.2026.101",
+        "featured": "1"
+      },
+      {
+        "username": "fadzline",
+        "type": "Book Chapter",
+        "year": "2024",
+        "title": "Managing digital transformation portfolios in developing economies: Pitfalls and critical success factors",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031",
+        "featured": ""
+      }
+    ],
+    "beyond-academia": [
+      {
+        "username": "fadzline",
+        "category-key": "hobbies",
+        "title": "Urban architectural sketching;Weekend high-altitude trekking;Digital watercolor illustration"
+      },
+      {
+        "username": "fadzline",
+        "category-key": "fav-books",
+        "title": "Good Strategy Bad Strategy by Richard Rumelt;Atomic Habits by James Clear;The Lean Startup by Eric Ries"
+      },
+      {
+        "username": "fadzline",
+        "category-key": "fav-songs",
+        "title": "Moonlight Sonata (Beethoven);Corporate Rain;Viva La Vida (Coldplay)"
+      },
+      {
+        "username": "fadzline",
+        "category-key": "fav-podcasts",
+        "title": "The AI Business Podcast;HBR IdeaCast;Tech Cafe Malaysia"
+      }
+    ]
+  }
+}
