@@ -1,494 +1,496 @@
 {
   "_meta": {
-    "modified": "08-Jun-2026 | 23:03:58",
+    "modified": "08-Jun-2026 | 23:09:27",
     "total": 22
   },
-  "fadzline": {
-    "profile": {
-      "username": "fadzline",
-      "academic-rank": "Associate Professor",
-      "full-name": "Dr. Puteri Fadzline Muhamad Tamyez",
-      "appointment": "Get-BS Coordinator",
-      "quote-text": "Courage does not always roar. It is the quiet voice at the end of the day saying, 'I will try again tomorrow'",
-      "expertise": "Project Management;Technology Management;Digital Transformation"
-    },
-    "links": [
-      {
+  "staff": {
+    "fadzline": {
+      "profile": {
         "username": "fadzline",
-        "group": "academicLinks",
-        "label": "LinkedIn",
-        "url": "https://linkedin.com/in/puterifadzline"
+        "academic-rank": "Associate Professor",
+        "full-name": "Dr. Puteri Fadzline Muhamad Tamyez",
+        "appointment": "Get-BS Coordinator",
+        "quote-text": "Courage does not always roar. It is the quiet voice at the end of the day saying, 'I will try again tomorrow'",
+        "expertise": "Project Management;Technology Management;Digital Transformation"
       },
-      {
+      "links": [
+        {
+          "username": "fadzline",
+          "group": "academicLinks",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/in/puterifadzline"
+        },
+        {
+          "username": "fadzline",
+          "group": "academicLinks",
+          "label": "Google Scholar",
+          "url": "https://scholar.google.com/citations?user=xyz123"
+        },
+        {
+          "username": "fadzline",
+          "group": "academicLinks",
+          "label": "Scopus",
+          "url": "https://www.scopus.com/authid/detail.uri?authorId=00000000"
+        },
+        {
+          "username": "fadzline",
+          "group": "academicLinks",
+          "label": "CV",
+          "url": "#"
+        },
+        {
+          "username": "fadzline",
+          "group": "connectLinks",
+          "label": "Facebook",
+          "url": "https://facebook.com/puterifadzline.official"
+        },
+        {
+          "username": "fadzline",
+          "group": "connectLinks",
+          "label": "Instagram",
+          "url": "https://instagram.com/puterifadzline"
+        },
+        {
+          "username": "fadzline",
+          "group": "connectLinks",
+          "label": "X",
+          "url": "https://x.com/puterifadzline"
+        },
+        {
+          "username": "fadzline",
+          "group": "connectLinks",
+          "label": "TikTok",
+          "url": "https://tiktok.com/@puterifadzline"
+        },
+        {
+          "username": "fadzline",
+          "group": "connectLinks",
+          "label": "YouTube",
+          "url": "https://youtube.com/@puterifadzline"
+        }
+      ],
+      "about": {
         "username": "fadzline",
-        "group": "academicLinks",
-        "label": "Google Scholar",
-        "url": "https://scholar.google.com/citations?user=xyz123"
+        "introduction": "Dr. Puteri Fadzline is a dedicated academician...",
+        "teaching-philosophy": "Her teaching philosophy revolves around...",
+        "research-focus": "Current research tracks focus primarily on...",
+        "affiliations": "Graduate Business School Network;Academy of Management;PMI"
       },
-      {
-        "username": "fadzline",
-        "group": "academicLinks",
-        "label": "Scopus",
-        "url": "https://www.scopus.com/authid/detail.uri?authorId=00000000"
+      "highlights": [
+        {
+          "username": "fadzline",
+          "category": "awards",
+          "title": "Best Academic Excellence Award 2026",
+          "description": "Awarded for outstanding contribution...",
+          "image": "fadzline-awards-1.webp",
+          "featured": "1"
+        },
+        {
+          "username": "fadzline",
+          "category": "awards",
+          "title": "Gold Medal Award 2026",
+          "description": "Gold Medal Award at MTE 2026...",
+          "image": "fadzline-awards-2.webp",
+          "featured": ""
+        },
+        {
+          "username": "fadzline",
+          "category": "awards",
+          "title": "Anugerah Penghargaan Pengajaran 2025",
+          "description": "Anugerah yang diberikan...",
+          "image": "fadzline-awards-3.webp",
+          "featured": ""
+        },
+        {
+          "username": "fadzline",
+          "category": "industry",
+          "title": "Digital Field Transformation Lab",
+          "description": "A joint collaborative hub...",
+          "image": "fadzline-industry-1.webp",
+          "featured": ""
+        },
+        {
+          "username": "fadzline",
+          "category": "student",
+          "title": "MBA Corporate Consulting Studio",
+          "description": "A flagship postgraduate program...",
+          "image": "fadzline-student-1.webp",
+          "featured": ""
+        }
+      ],
+      "research": [
+        {
+          "username": "fadzline",
+          "role": "Principal Investigator",
+          "amount": "RM 280,000",
+          "title": "Developing Digital Project Capability Maturity Index...",
+          "date": "2025-2027",
+          "featured": "1"
+        },
+        {
+          "username": "fadzline",
+          "role": "Co-Researcher",
+          "amount": "RM 120,000",
+          "title": "Executive Learning Transfer Models...",
+          "date": "2023-2025",
+          "featured": ""
+        }
+      ],
+      "publications": [
+        {
+          "username": "fadzline",
+          "type": "Journal Article",
+          "year": "2026",
+          "title": "Strategic technology adoption and operational resilience...",
+          "url": "https://doi.org/10.1016/...",
+          "featured": "1"
+        },
+        {
+          "username": "fadzline",
+          "type": "Book Chapter",
+          "year": "2024",
+          "title": "Managing digital transformation portfolios...",
+          "url": "https://link.springer.com/...",
+          "featured": ""
+        }
+      ],
+      "beyond-academia": [
+        {
+          "username": "fadzline",
+          "category-key": "hobbies",
+          "title": "Urban architectural sketching;Weekend high-altitude trekking;Digital watercolor illustration"
+        },
+        {
+          "username": "fadzline",
+          "category-key": "fav-books",
+          "title": "Good Strategy Bad Strategy by Richard Rumelt;Atomic Habits by James Clear;The Lean Startup by Eric Ries"
+        },
+        {
+          "username": "fadzline",
+          "category-key": "fav-songs",
+          "title": "Moonlight Sonata (Beethoven);Corporate Rain;Viva La Vida (Coldplay)"
+        },
+        {
+          "username": "fadzline",
+          "category-key": "fav-podcasts",
+          "title": "The AI Business Podcast;HBR IdeaCast;Tech Cafe Malaysia"
+        }
+      ]
+    },
+    "ahuzaimi": {
+      "profile": {
+        "username": "ahuzaimi",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Ahmad Huzaimi b. Abd Aziz",
+        "appointment": "Academic Coordinator (MPM)",
+        "quote-text": "If you want it and dream it; you can achieve it.",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "group": "academicLinks",
-        "label": "CV",
-        "url": "#"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "chia": {
+      "profile": {
+        "username": "chia",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Lee Chia Kuang",
+        "appointment": "Open Distance & Learning (ODL) Head of Coordinator",
+        "quote-text": "Driven by Wisdom, Rising in Excellence",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "group": "connectLinks",
-        "label": "Facebook",
-        "url": "https://facebook.com/puterifadzline.official"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "mohammadwaffy": {
+      "profile": {
+        "username": "mohammadwaffy",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Mohammad Waffy Fadzil",
+        "appointment": "Open Distance & Learning (ODL) Coordinator (Master of Project Management)",
+        "quote-text": "Do the best you can until you know better. Then when you know better, do better. – Maya Angelou",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "group": "connectLinks",
-        "label": "Instagram",
-        "url": "https://instagram.com/puterifadzline"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "adibaziz": {
+      "profile": {
+        "username": "adibaziz",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Muhammad Abdul Adib Abdul Aziz",
+        "appointment": "Industry & Community Coordinator",
+        "quote-text": "",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "group": "connectLinks",
-        "label": "X",
-        "url": "https://x.com/puterifadzline"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "nisaabdulaziz": {
+      "profile": {
+        "username": "nisaabdulaziz",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Khairunnisa Abdul Aziz",
+        "appointment": "Academic Coordinator (Master of Business Administration)",
+        "quote-text": "Excellence is achieved through reflection, action, and improvement",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "group": "connectLinks",
-        "label": "TikTok",
-        "url": "https://tiktok.com/@puterifadzline"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "noraina": {
+      "profile": {
+        "username": "noraina",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Noraina Mazuin Sapuan",
+        "appointment": "Head of Department",
+        "quote-text": "Root your actions in values, focus your vision on growth, and maintain the flexibility to navigate challenges",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "group": "connectLinks",
-        "label": "YouTube",
-        "url": "https://youtube.com/@puterifadzline"
-      }
-    ],
-    "about": {
-      "username": "fadzline",
-      "introduction": "Dr. Puteri Fadzline is a dedicated academician...",
-      "teaching-philosophy": "Her teaching philosophy revolves around...",
-      "research-focus": "Current research tracks focus primarily on...",
-      "affiliations": "Graduate Business School Network;Academy of Management;PMI"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
     },
-    "highlights": [
-      {
-        "username": "fadzline",
-        "category": "awards",
-        "title": "Best Academic Excellence Award 2026",
-        "description": "Awarded for outstanding contribution...",
-        "image": "fadzline-awards-1.webp",
-        "featured": "1"
+    "sinebahari": {
+      "profile": {
+        "username": "sinebahari",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Noraine Bahari",
+        "appointment": "Open and Distance Learning (ODL) Coordinator (Master of Business Administration)",
+        "quote-text": "Work for your world as if you will live forever, and work for your Hereafter as if you will die tomorrow. — Prophet Muhammad ﷺ",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "category": "awards",
-        "title": "Gold Medal Award 2026",
-        "description": "Gold Medal Award at MTE 2026...",
-        "image": "fadzline-awards-2.webp",
-        "featured": ""
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "hanafiah": {
+      "profile": {
+        "username": "hanafiah",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Mohd Hanafiah Ahmad",
+        "appointment": "Dean of Faculty of Industrial Management",
+        "quote-text": "",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "category": "awards",
-        "title": "Anugerah Penghargaan Pengajaran 2025",
-        "description": "Anugerah yang diberikan...",
-        "image": "fadzline-awards-3.webp",
-        "featured": ""
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "jackkie": {
+      "profile": {
+        "username": "jackkie",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Cheng Jack Kie",
+        "appointment": "",
+        "quote-text": "Life isn't a hundred-meter race against your friends, but a lifelong marathon against yourself.",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "category": "industry",
-        "title": "Digital Field Transformation Lab",
-        "description": "A joint collaborative hub...",
-        "image": "fadzline-industry-1.webp",
-        "featured": ""
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "imaduddin": {
+      "profile": {
+        "username": "imaduddin",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Major Dr. Hj. Imaduddin Abidin",
+        "appointment": "",
+        "quote-text": "Ilmu tanpa amal adalah gila, amal tanpa ilmu adalah sia-sia — Imam Al-Ghazali (Ihya' Ulum al-Din)",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "category": "student",
-        "title": "MBA Corporate Consulting Studio",
-        "description": "A flagship postgraduate program...",
-        "image": "fadzline-student-1.webp",
-        "featured": ""
-      }
-    ],
-    "research": [
-      {
-        "username": "fadzline",
-        "role": "Principal Investigator",
-        "amount": "RM 280,000",
-        "title": "Developing Digital Project Capability Maturity Index...",
-        "date": "2025-2027",
-        "featured": "1"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "irene": {
+      "profile": {
+        "username": "irene",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Irene Ting Wei Kiong",
+        "appointment": "",
+        "quote-text": "Be Optimistic.",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "role": "Co-Researcher",
-        "amount": "RM 120,000",
-        "title": "Executive Learning Transfer Models...",
-        "date": "2023-2025",
-        "featured": ""
-      }
-    ],
-    "publications": [
-      {
-        "username": "fadzline",
-        "type": "Journal Article",
-        "year": "2026",
-        "title": "Strategic technology adoption and operational resilience...",
-        "url": "https://doi.org/10.1016/...",
-        "featured": "1"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "leekhailoon": {
+      "profile": {
+        "username": "leekhailoon",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Ts. Dr. Lee Khai Loon",
+        "appointment": "",
+        "quote-text": "If it doesn't challenge you, it won't change you. Great things never come from comfort zones",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "type": "Book Chapter",
-        "year": "2024",
-        "title": "Managing digital transformation portfolios...",
-        "url": "https://link.springer.com/...",
-        "featured": ""
-      }
-    ],
-    "beyond-academia": [
-      {
-        "username": "fadzline",
-        "category-key": "hobbies",
-        "title": "Urban architectural sketching;Weekend high-altitude trekking;Digital watercolor illustration"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "ghazali": {
+      "profile": {
+        "username": "ghazali",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr Ghazali Maarof",
+        "appointment": "",
+        "quote-text": "Doing and giving the best you can in life",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "category-key": "fav-books",
-        "title": "Good Strategy Bad Strategy by Richard Rumelt;Atomic Habits by James Clear;The Lean Startup by Eric Ries"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "ashrafauzi": {
+      "profile": {
+        "username": "ashrafauzi",
+        "academic-rank": "Associate Professor",
+        "full-name": "Ts. Dr. Muhammad Ashraf Fauzi",
+        "appointment": "",
+        "quote-text": "Agi Idup, Agi Ngelaban",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "category-key": "fav-songs",
-        "title": "Moonlight Sonata (Beethoven);Corporate Rain;Viva La Vida (Coldplay)"
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    },
+    "emfakhrul": {
+      "profile": {
+        "username": "emfakhrul",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Ts. Dr. Muhammad Fakhrul",
+        "appointment": "",
+        "quote-text": "From leading operations on the ground to shaping minds in lecture rooms, I bring 18+ years of real-world experience into any discussion on sustainability, digital transformation and strategic innovation",
+        "expertise": ""
       },
-      {
-        "username": "fadzline",
-        "category-key": "fav-podcasts",
-        "title": "The AI Business Podcast;HBR IdeaCast;Tech Cafe Malaysia"
-      }
-    ]
-  },
-  "ahuzaimi": {
-    "profile": {
-      "username": "ahuzaimi",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Ahmad Huzaimi b. Abd Aziz",
-      "appointment": "Academic Coordinator (MPM)",
-      "quote-text": "If you want it and dream it; you can achieve it.",
-      "expertise": ""
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
     },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "chia": {
-    "profile": {
-      "username": "chia",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Lee Chia Kuang",
-      "appointment": "Open Distance & Learning (ODL) Head of Coordinator",
-      "quote-text": "Driven by Wisdom, Rising in Excellence",
-      "expertise": ""
+    "norwazli": {
+      "profile": {
+        "username": "norwazli",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Norwazli Abdul Wahab",
+        "appointment": "",
+        "quote-text": "I turn challenges into chapters of success.",
+        "expertise": ""
+      },
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
     },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "mohammadwaffy": {
-    "profile": {
-      "username": "mohammadwaffy",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Mohammad Waffy Fadzil",
-      "appointment": "Open Distance & Learning (ODL) Coordinator (Master of Project Management)",
-      "quote-text": "Do the best you can until you know better. Then when you know better, do better. – Maya Angelou",
-      "expertise": ""
+    "ashykin": {
+      "profile": {
+        "username": "ashykin",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Nurul Ashykin Abd Aziz",
+        "appointment": "",
+        "quote-text": "Hard work builds strength, learning shapes success",
+        "expertise": ""
+      },
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
     },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "adibaziz": {
-    "profile": {
-      "username": "adibaziz",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Muhammad Abdul Adib Abdul Aziz",
-      "appointment": "Industry & Community Coordinator",
-      "quote-text": "",
-      "expertise": ""
+    "reeduan": {
+      "profile": {
+        "username": "reeduan",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Mohamad Reeduan Mustapha",
+        "appointment": "",
+        "quote-text": "I have a passion for helping people achieve their potential",
+        "expertise": ""
+      },
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
     },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "nisaabdulaziz": {
-    "profile": {
-      "username": "nisaabdulaziz",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Khairunnisa Abdul Aziz",
-      "appointment": "Academic Coordinator (Master of Business Administration)",
-      "quote-text": "Excellence is achieved through reflection, action, and improvement",
-      "expertise": ""
+    "suhaidah": {
+      "profile": {
+        "username": "suhaidah",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Suhaidah Hussain",
+        "appointment": "",
+        "quote-text": "Every accomplishment starts with the decision to try",
+        "expertise": ""
+      },
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
     },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "noraina": {
-    "profile": {
-      "username": "noraina",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Noraina Mazuin Sapuan",
-      "appointment": "Head of Department",
-      "quote-text": "Root your actions in values, focus your vision on growth, and maintain the flexibility to navigate challenges",
-      "expertise": ""
+    "yudi": {
+      "profile": {
+        "username": "yudi",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Yudi Fernando",
+        "appointment": "",
+        "quote-text": "Nurture responsible knowledge with the light of true wisdom",
+        "expertise": ""
+      },
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
     },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "sinebahari": {
-    "profile": {
-      "username": "sinebahari",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Noraine Bahari",
-      "appointment": "Open and Distance Learning (ODL) Coordinator (Master of Business Administration)",
-      "quote-text": "Work for your world as if you will live forever, and work for your Hereafter as if you will die tomorrow. — Prophet Muhammad ﷺ",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "hanafiah": {
-    "profile": {
-      "username": "hanafiah",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Mohd Hanafiah Ahmad",
-      "appointment": "Dean of Faculty of Industrial Management",
-      "quote-text": "",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "jackkie": {
-    "profile": {
-      "username": "jackkie",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Cheng Jack Kie",
-      "appointment": "",
-      "quote-text": "Life isn't a hundred-meter race against your friends, but a lifelong marathon against yourself.",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "imaduddin": {
-    "profile": {
-      "username": "imaduddin",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Major Dr. Hj. Imaduddin Abidin",
-      "appointment": "",
-      "quote-text": "Ilmu tanpa amal adalah gila, amal tanpa ilmu adalah sia-sia — Imam Al-Ghazali (Ihya' Ulum al-Din)",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "irene": {
-    "profile": {
-      "username": "irene",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Irene Ting Wei Kiong",
-      "appointment": "",
-      "quote-text": "Be Optimistic.",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "leekhailoon": {
-    "profile": {
-      "username": "leekhailoon",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Ts. Dr. Lee Khai Loon",
-      "appointment": "",
-      "quote-text": "If it doesn't challenge you, it won't change you. Great things never come from comfort zones",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "ghazali": {
-    "profile": {
-      "username": "ghazali",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr Ghazali Maarof",
-      "appointment": "",
-      "quote-text": "Doing and giving the best you can in life",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "ashrafauzi": {
-    "profile": {
-      "username": "ashrafauzi",
-      "academic-rank": "Associate Professor",
-      "full-name": "Ts. Dr. Muhammad Ashraf Fauzi",
-      "appointment": "",
-      "quote-text": "Agi Idup, Agi Ngelaban",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "emfakhrul": {
-    "profile": {
-      "username": "emfakhrul",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Ts. Dr. Muhammad Fakhrul",
-      "appointment": "",
-      "quote-text": "From leading operations on the ground to shaping minds in lecture rooms, I bring 18+ years of real-world experience into any discussion on sustainability, digital transformation and strategic innovation",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "norwazli": {
-    "profile": {
-      "username": "norwazli",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Norwazli Abdul Wahab",
-      "appointment": "",
-      "quote-text": "I turn challenges into chapters of success.",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "ashykin": {
-    "profile": {
-      "username": "ashykin",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Nurul Ashykin Abd Aziz",
-      "appointment": "",
-      "quote-text": "Hard work builds strength, learning shapes success",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "reeduan": {
-    "profile": {
-      "username": "reeduan",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Mohamad Reeduan Mustapha",
-      "appointment": "",
-      "quote-text": "I have a passion for helping people achieve their potential",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "suhaidah": {
-    "profile": {
-      "username": "suhaidah",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Suhaidah Hussain",
-      "appointment": "",
-      "quote-text": "Every accomplishment starts with the decision to try",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "yudi": {
-    "profile": {
-      "username": "yudi",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Yudi Fernando",
-      "appointment": "",
-      "quote-text": "Nurture responsible knowledge with the light of true wisdom",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
-  },
-  "zarithsufia": {
-    "profile": {
-      "username": "zarithsufia",
-      "academic-rank": "Senior Lecturer",
-      "full-name": "Dr. Zarith Sufia Azlan",
-      "appointment": "",
-      "quote-text": "Never stop learning, because life never stops teaching.",
-      "expertise": ""
-    },
-    "links": [],
-    "highlights": [],
-    "research": [],
-    "publications": [],
-    "beyond-academia": []
+    "zarithsufia": {
+      "profile": {
+        "username": "zarithsufia",
+        "academic-rank": "Senior Lecturer",
+        "full-name": "Dr. Zarith Sufia Azlan",
+        "appointment": "",
+        "quote-text": "Never stop learning, because life never stops teaching.",
+        "expertise": ""
+      },
+      "links": [],
+      "highlights": [],
+      "research": [],
+      "publications": [],
+      "beyond-academia": []
+    }
   }
 }
