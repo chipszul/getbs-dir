@@ -24,20 +24,14 @@
       {
         "username": "fadzline",
         "group": "academicLinks",
-        "label": "CV",
-        "url": "#"
-      },
-      {
-        "username": "fadzline",
-        "group": "academicLinks",
-        "label": "ResearchGate",
-        "url": "https://www.researchgate.net/profile/Puteri-Fadzline"
-      },
-      {
-        "username": "fadzline",
-        "group": "academicLinks",
         "label": "LinkedIn",
         "url": "https://linkedin.com/in/puterifadzline"
+      },
+      {
+        "username": "fadzline",
+        "group": "academicLinks",
+        "label": "CV",
+        "url": "#"
       },
       {
         "username": "fadzline",
